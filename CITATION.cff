@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, the model or the dataset, please cite it as below."
+type: software
+title: "Makise Kurisu AI voice (STEINS;GATE): Qwen3-TTS fine-tuning code"
+authors:
+  - alias: starrydark
+repository-code: "https://github.com/starryark/makise-kurisu-tts"
+url: "https://huggingface.co/starrydark/Makise_Kurisu_Qwen3_TTS"
+license: Apache-2.0
+version: "3.0"
+date-released: "2026-10-29"
+abstract: >-
+  Code for an unofficial, fan-made Makise Kurisu (STEINS;GATE) text-to-speech voice in
+  Japanese, Mandarin Chinese and English: dataset build, a fixed Qwen3-TTS fine-tuning
+  trainer, cross-lingual accent reduction with language ids and native replay, and a
+  pre-registered evaluation.
+keywords:
+  - text-to-speech
+  - Qwen3-TTS
+  - fine-tuning
+  - character voice
+  - Makise Kurisu
+  - STEINS;GATE
+  - Japanese
+  - cross-lingual TTS
+references:
+  - type: article
+    title: "Qwen3-TTS Technical Report"
+    authors:
+      - name: "Qwen Team"
+    journal: "arXiv preprint arXiv:2601.15621"
+    year: 2026

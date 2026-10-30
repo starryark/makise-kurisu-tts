@@ -1,0 +1,464 @@
+{
+  "suite": "v3",
+  "mode": "retest",
+  "ref": "starrydark/Kurisu_Qwen3_TTS@92a08362cb2c95f7dfc8a7ecf4cc00db625f9d57",
+  "seed_filter": [
+    26000
+  ],
+  "A1": {
+    "archive_n": 148,
+    "regen_n": 148,
+    "dur_tol_s": 0.02,
+    "min_match": 0.9,
+    "dur_match": 1.0,
+    "asr_identical": 1.0,
+    "missing_in_regen": [],
+    "cer_archive": 0.0297,
+    "cer_regen": 0.0297,
+    "ok": true,
+    "ref_cer_6000": 0.0297,
+    "harness_ok": true,
+    "harness_note": "secondary: CER 0.0297 vs 0.0297 +- 0.003",
+    "ref_s6000": {
+      "cer": 0.0297,
+      "sim": 0.6677,
+      "n": 148
+    },
+    "ref_s11000": {
+      "cer": 0.0329,
+      "sim": 0.664,
+      "n": 148
+    },
+    "ref_s16000": {
+      "cer": 0.0309,
+      "sim": 0.672,
+      "n": 148
+    },
+    "ref_s21000": {
+      "cer": 0.0338,
+      "sim": 0.6672,
+      "n": 148
+    },
+    "ref_s26000": {
+      "cer": 0.0282,
+      "sim": 0.6595,
+      "n": 148
+    }
+  },
+  "e1_accent_noise": null,
+  "results": {
+    "/workspace/kurisu/runs/final_s20261028/checkpoint-step-343": {
+      "seed_bases": [
+        26000
+      ],
+      "A2": {
+        "shipped_mode": "ja",
+        "all": {
+          "cer": {
+            "mean": -0.0036,
+            "bound90": 0.002,
+            "limit": 0.01,
+            "pass": true,
+            "n_texts": 148,
+            "seed_bases": [
+              26000
+            ]
+          },
+          "sim": {
+            "mean": 0.0081,
+            "bound90": -0.0,
+            "limit": -0.015,
+            "pass": true,
+            "n_texts": 148,
+            "seed_bases": [
+              26000
+            ]
+          }
+        },
+        "dedup": {
+          "cer": {
+            "mean": -0.0041,
+            "bound90": 0.0016,
+            "limit": 0.01,
+            "pass": true,
+            "n_texts": 141,
+            "seed_bases": [
+              26000
+            ]
+          },
+          "sim": {
+            "mean": 0.0077,
+            "bound90": -0.001,
+            "limit": -0.015,
+            "pass": true,
+            "n_texts": 141,
+            "seed_bases": [
+              26000
+            ]
+          }
+        },
+        "runaway": 0,
+        "auto_screen": {
+          "mean_dcer": -0.0055,
+          "pass": true,
+          "n_texts": 148
+        },
+        "pass": true
+      },
+      "A3": {
+        "rms": 1.323,
+        "max": 2.626,
+        "tilt": 0.479,
+        "bands": [
+          -1.01,
+          -0.35,
+          -0.4,
+          -0.27,
+          0.13,
+          2.1,
+          2.63,
+          1.69,
+          1.62,
+          1.37,
+          1.0,
+          1.32,
+          1.42,
+          1.71,
+          0.98,
+          0.13,
+          -1.35,
+          -1.18,
+          -1.16
+        ],
+        "thresholds": {
+          "rms": 1.0,
+          "max": 2.508,
+          "tilt": 1.0
+        },
+        "null": {
+          "rms_p95": 0.9322534787271943,
+          "max_p95": 2.507821083068847,
+          "tilt_p95": 0.7024631500244141,
+          "scaled_for_S": 1,
+          "seed_bases": [
+            6000,
+            11000
+          ]
+        },
+        "n_texts": 148,
+        "seed_bases": [
+          26000
+        ],
+        "pass": false
+      },
+      "A4": {
+        "pass": true,
+        "claims": [],
+        "gate": "pending E1 (run with --e1): A4 cannot fail",
+        "zh": {
+          "lid_ratio": {
+            "valid": true,
+            "sign": 1,
+            "mean": -6.0398,
+            "accent_dir_bounds90": [
+              -6.7801,
+              -5.3144
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 80,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "p_target": {
+            "valid": true,
+            "sign": -1,
+            "mean": 0.084,
+            "accent_dir_bounds90": [
+              -0.1217,
+              -0.0484
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 80,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "ser": {
+            "valid": false,
+            "sign": 1,
+            "mean": -0.1426,
+            "accent_dir_bounds90": [
+              -0.1655,
+              -0.1214
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 80,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "ser_shared": {
+            "valid": true,
+            "sign": 1,
+            "mean": -0.1349,
+            "accent_dir_bounds90": [
+              -0.1599,
+              -0.1112
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 77,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "ter": {
+            "valid": false,
+            "sign": 1,
+            "mean": -0.0182,
+            "accent_dir_bounds90": [
+              -0.0283,
+              -0.0084
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 80,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "ter_strict": {
+            "valid": false,
+            "sign": 1,
+            "mean": -0.0204,
+            "accent_dir_bounds90": [
+              -0.0313,
+              -0.0097
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 80,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "_guards": {
+            "mean_dsim": -0.0226,
+            "cer_mean": 0.0171,
+            "runaway": 0,
+            "sim_ok": true,
+            "ser_shared_not_worse": true
+          }
+        },
+        "en": {
+          "lid_ratio": {
+            "valid": true,
+            "sign": 1,
+            "mean": -2.1256,
+            "accent_dir_bounds90": [
+              -2.8713,
+              -1.3778
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 50,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "p_target": {
+            "valid": false,
+            "sign": -1,
+            "mean": 0.1069,
+            "accent_dir_bounds90": [
+              -0.1655,
+              -0.0505
+            ],
+            "less_accent_sig": true,
+            "more_accent_sig": false,
+            "n_texts": 50,
+            "seed_bases": [
+              26000
+            ],
+            "e1_noise": null
+          },
+          "_guards": {
+            "mean_dsim": 0.005,
+            "cer_mean": 0.004,
+            "runaway": 0
+          },
+          "_note": "no valid English accent metric is claimed (A4)"
+        }
+      },
+      "A5": {
+        "pass": true,
+        "rows": {
+          "amadeus": {
+            "n_rows": 36,
+            "cer_mean": 0.039,
+            "model_diff_db": [
+              -0.57,
+              -1.24,
+              -3.88,
+              -2.26,
+              -0.8,
+              2.66,
+              4.21,
+              4.53,
+              7.28,
+              10.35,
+              10.25,
+              10.22,
+              9.53,
+              6.85,
+              6.45,
+              15.56,
+              19.88,
+              6.77,
+              1.92
+            ],
+            "real_diff_db": [
+              4.24,
+              1.75,
+              -1.56,
+              -3.03,
+              -4.15,
+              1.17,
+              4.06,
+              2.6,
+              6.02,
+              8.51,
+              10.63,
+              8.84,
+              7.94,
+              5.01,
+              3.78,
+              12.76,
+              17.44,
+              6.32,
+              1.81
+            ],
+            "projection": 1.115,
+            "cer_ok": true,
+            "projection_ok": true,
+            "pass": true
+          },
+          "phone": {
+            "n_rows": 36,
+            "cer_mean": 0.0619,
+            "model_diff_db": [
+              -14.9,
+              -22.95,
+              -19.09,
+              -15.04,
+              -9.29,
+              -5.11,
+              -0.39,
+              5.02,
+              10.17,
+              16.94,
+              17.18,
+              17.66,
+              18.35,
+              15.96,
+              16.22,
+              15.75,
+              12.0,
+              10.19,
+              2.65
+            ],
+            "real_diff_db": [
+              -8.9,
+              -11.89,
+              -12.09,
+              -11.18,
+              -7.34,
+              -5.56,
+              -1.41,
+              3.19,
+              8.7,
+              11.11,
+              13.92,
+              15.63,
+              14.09,
+              14.22,
+              15.57,
+              12.43,
+              8.8,
+              7.06,
+              3.43
+            ],
+            "projection": 1.309,
+            "cer_ok": true,
+            "projection_ok": true,
+            "pass": true,
+            "note": "in-sample reference takes: projection reported only (A5, A9/E5); CER guard applies"
+          }
+        }
+      },
+      "A6": {
+        "[nv]": {
+          "n": 30,
+          "dcer": 0.0143,
+          "dcer_ok": true,
+          "runaway_rate": 0.0,
+          "twin_runaway_rate": 0.0,
+          "runaway_ok": true,
+          "detection": {
+            "threshold": 0.05044,
+            "n_neg": 148,
+            "n": 30,
+            "rate": 0.167,
+            "ci95": [
+              0.0734,
+              0.3356
+            ]
+          },
+          "twin_detection": 0.0,
+          "status": "experimental (reported)"
+        },
+        "[sigh]": {
+          "n": 30,
+          "dcer": 0.0249,
+          "dcer_ok": true,
+          "runaway_rate": 0.0,
+          "twin_runaway_rate": 0.0,
+          "runaway_ok": true,
+          "detection": {
+            "threshold": 0.90162,
+            "n_neg": 148,
+            "n": 30,
+            "rate": 0.067,
+            "ci95": [
+              0.0185,
+              0.2132
+            ]
+          },
+          "twin_detection": 0.0,
+          "status": "experimental (reported)"
+        }
+      },
+      "A7": {},
+      "A7_note": "skipped: S=1 < 2 (re-test); A7 is judged on the S >= 2 run"
+    }
+  },
+  "ranking": [],
+  "winner": null,
+  "notes": [
+    "A4 fail rule (registered): zh M1 worse than v2 by more than the E1 spread; other metrics report-only",
+    "A5 passes trivially for checkpoints without extra speakers; phone projection report-only",
+    "A7 prompts = generations (15 texts x S), registered",
+    "Step 4 (zero-shot clone guard) is not applied: A8 uses steps 1-3"
+  ]
+}

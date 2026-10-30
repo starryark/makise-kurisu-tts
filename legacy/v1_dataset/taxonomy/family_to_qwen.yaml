@@ -1,0 +1,67 @@
+# Canonical family -> the string that reaches the Qwen transcript.
+# 'null' means the family is recognised and stored in metadata but is
+# deliberately NOT exposed as a control token in v1.
+# Generated from pipeline/common.py - edit there, not here.
+version: 1
+qwen_tag_inventory:
+  - '[sigh]'
+  - '[breath]'
+  - '[gasp]'
+  - '[laugh]'
+  - '[giggle]'
+  - '[chuckle]'
+  - '[moan]'
+  - '[groan]'
+  - '[grunt]'
+  - '[sob]'
+  - '[cry]'
+  - '[scream]'
+  - '[cough]'
+  - '[throat_clear]'
+  - '[sniff]'
+  - '[yawn]'
+  - '[hum]'
+family_to_qwen:
+  breath: '[breath]'
+  chuckle: '[chuckle]'
+  cough: '[cough]'
+  cry: '[cry]'
+  gasp: '[gasp]'
+  giggle: '[giggle]'
+  groan: '[groan]'
+  growl: null
+  grunt: '[grunt]'
+  hum: '[hum]'
+  laugh: '[laugh]'
+  lipsmack: null
+  moan: '[moan]'
+  mumble: null
+  no_burst: null
+  other: null
+  scream: '[scream]'
+  sigh: '[sigh]'
+  sniff: '[sniff]'
+  sob: '[sob]'
+  swallow: null
+  throat_clear: '[throat_clear]'
+  tsk: null
+  whistle: null
+  yawn: '[yawn]'
+review_policy:
+  always_manual_review:   # semantically overlapping, supplement s16
+    - groan
+    - growl
+    - grunt
+    - hum
+    - moan
+    - mumble
+    - other
+  may_auto_accept_when_calibrated:
+    - cough
+    - gasp
+    - giggle
+    - laugh
+    - scream
+    - sigh
+    - throat_clear
+    - yawn

@@ -1,0 +1,176 @@
+{"pid": "ja_novel_00", "kind": "ja_novel", "lang": "ja", "text": "仮説を立てたなら、まずは検証しなさい。話はそれからよ。"}
+{"pid": "ja_novel_01", "kind": "ja_novel", "lang": "ja", "text": "別に、あんたのために残ったわけじゃないから。勘違いしないでよね。"}
+{"pid": "ja_novel_02", "kind": "ja_novel", "lang": "ja", "text": "時間というのは、観測者によって流れ方が変わるの。相対性理論の基本でしょ？"}
+{"pid": "ja_novel_03", "kind": "ja_novel", "lang": "ja", "text": "ちょっと待って。そのデータ、どこから持ってきたの？"}
+{"pid": "ja_novel_04", "kind": "ja_novel", "lang": "ja", "text": "今日の実験結果をまとめておいたから、明日の朝までに目を通しておいて。"}
+{"pid": "ja_novel_05", "kind": "ja_novel", "lang": "ja", "text": "もう、本当にしょうがないんだから……。"}
+{"pid": "ja_novel_06", "kind": "ja_novel", "lang": "ja", "text": "脳の記憶は、電気信号のパターンとして保存されているの。理論上は、それを読み出すことも可能なはずよ。"}
+{"pid": "ja_novel_07", "kind": "ja_novel", "lang": "ja", "text": "ありがとう。あなたがいてくれて、本当によかった。"}
+{"pid": "ja_novel_08", "kind": "ja_novel", "lang": "ja", "text": "コーヒーでも飲む？ 少し休憩しましょう。"}
+{"pid": "ja_novel_09", "kind": "ja_novel", "lang": "ja", "text": "科学者は、答えがわからないことを恐れちゃいけないの。"}
+{"pid": "ja_novel_10", "kind": "ja_novel", "lang": "ja", "text": "誰がクリスティーナよ！ ティーナもいらないって何度言えばわかるの？"}
+{"pid": "ja_novel_11", "kind": "ja_novel", "lang": "ja", "text": "結論から言うと、この装置はまだ不完全。でも、可能性はゼロじゃない。"}
+{"pid": "ja_novel_12", "kind": "ja_novel", "lang": "ja", "text": "雨、止まないわね。傘、持ってきてないんだけど。"}
+{"pid": "ja_novel_13", "kind": "ja_novel", "lang": "ja", "text": "私は、自分の目で確かめたことしか信じないの。"}
+{"pid": "ja_novel_14", "kind": "ja_novel", "lang": "ja", "text": "明日は学会の発表だから、今夜は早く寝ることにするわ。"}
+{"pid": "ja_novel_15", "kind": "ja_novel", "lang": "ja", "text": "ねえ、もし過去を一つだけ変えられるとしたら、あなたは何を変える？"}
+{"pid": "ja_novel_16", "kind": "ja_novel", "lang": "ja", "text": "失敗は終わりじゃない。次の実験のためのデータよ。"}
+{"pid": "ja_novel_17", "kind": "ja_novel", "lang": "ja", "text": "……べ、別に照れてなんかないわよ！"}
+{"pid": "ja_novel_18", "kind": "ja_novel", "lang": "ja", "text": "東京の夏って、どうしてこんなに蒸し暑いのかしら。"}
+{"pid": "ja_novel_19", "kind": "ja_novel", "lang": "ja", "text": "この論文、読んだ？ 神経科学の分野では、かなり画期的な内容よ。"}
+{"pid": "en_00", "kind": "cross_lingual", "lang": "en", "text": "I'm a scientist. I don't believe in anything I can't verify myself."}
+{"pid": "en_01", "kind": "cross_lingual", "lang": "en", "text": "Don't call me Christina! And I don't need the tina either."}
+{"pid": "en_02", "kind": "cross_lingual", "lang": "en", "text": "Time doesn't flow the same way for every observer. That's basic relativity."}
+{"pid": "en_03", "kind": "cross_lingual", "lang": "en", "text": "Thank you. I'm really glad you were here."}
+{"pid": "en_04", "kind": "cross_lingual", "lang": "en", "text": "If you have a hypothesis, test it. We can talk after that."}
+{"pid": "en_05", "kind": "cross_lingual", "lang": "en", "text": "Honestly, you're impossible sometimes."}
+{"pid": "en_06", "kind": "cross_lingual", "lang": "en", "text": "Memories are stored as patterns of electrical signals in the brain."}
+{"pid": "en_07", "kind": "cross_lingual", "lang": "en", "text": "Would you like some coffee? Let's take a short break."}
+{"pid": "zh_00", "kind": "cross_lingual", "lang": "zh", "text": "我是科学家，只相信自己亲眼验证过的东西。"}
+{"pid": "zh_01", "kind": "cross_lingual", "lang": "zh", "text": "不要叫我克里斯蒂娜！"}
+{"pid": "zh_02", "kind": "cross_lingual", "lang": "zh", "text": "时间对于每个观测者来说，流逝的速度都不一样。"}
+{"pid": "zh_03", "kind": "cross_lingual", "lang": "zh", "text": "谢谢你，有你在真是太好了。"}
+{"pid": "zh_04", "kind": "cross_lingual", "lang": "zh", "text": "先提出假设，然后去验证它。"}
+{"pid": "zh_05", "kind": "cross_lingual", "lang": "zh", "text": "真是的，你有时候真让人受不了。"}
+{"pid": "zh_06", "kind": "cross_lingual", "lang": "zh", "text": "记忆是以电信号的模式储存在大脑中的。"}
+{"pid": "zh_07", "kind": "cross_lingual", "lang": "zh", "text": "要不要喝杯咖啡？我们休息一下吧。"}
+{"pid": "tag_00", "kind": "tagged", "lang": "ja", "text": "[sigh]もう、しょうがないわね。"}
+{"pid": "tag_00_ctl", "kind": "tag_control", "lang": "ja", "text": "もう、しょうがないわね。"}
+{"pid": "tag_01", "kind": "tagged", "lang": "ja", "text": "本当に、[sigh]あんたって人は……"}
+{"pid": "tag_01_ctl", "kind": "tag_control", "lang": "ja", "text": "本当に、あんたって人は……"}
+{"pid": "tag_02", "kind": "tagged", "lang": "ja", "text": "[gasp]嘘……どうして、ここに？"}
+{"pid": "tag_02_ctl", "kind": "tag_control", "lang": "ja", "text": "嘘……どうして、ここに？"}
+{"pid": "tag_03", "kind": "tagged", "lang": "ja", "text": "待って、[gasp]今の音、聞こえた？"}
+{"pid": "tag_03_ctl", "kind": "tag_control", "lang": "ja", "text": "待って、今の音、聞こえた？"}
+{"pid": "tag_04", "kind": "tagged", "lang": "ja", "text": "結論から言うと、[pause]この実験は失敗よ。"}
+{"pid": "tag_04_ctl", "kind": "tag_control", "lang": "ja", "text": "結論から言うと、この実験は失敗よ。"}
+{"pid": "tag_05", "kind": "tagged", "lang": "ja", "text": "ねえ。[pause]ちょっと話があるの。"}
+{"pid": "tag_05_ctl", "kind": "tag_control", "lang": "ja", "text": "ねえ。ちょっと話があるの。"}
+{"pid": "ja_test_00", "kind": "ja_heldout", "lang": "ja", "text": "はあ？それじゃ意味ないじゃない。もっとまともなもの作りなさいよ岡部", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01948.wav"}
+{"pid": "ja_test_01", "kind": "ja_heldout", "lang": "ja", "text": "別に、泣いてなんかないからなっ！", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01148.wav"}
+{"pid": "ja_test_02", "kind": "ja_heldout", "lang": "ja", "text": "自分で言いだしておいて何だけど―全部のDメールを取り消すなんて", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0019.wav"}
+{"pid": "ja_test_03", "kind": "ja_heldout", "lang": "ja", "text": "……そう。結局、会うつもりなんかなかったんでしょ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01126.wav"}
+{"pid": "ja_test_04", "kind": "ja_heldout", "lang": "ja", "text": "岡部ー？返事しないなら切るぞー？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01242.wav"}
+{"pid": "ja_test_05", "kind": "ja_heldout", "lang": "ja", "text": "紅莉栖って呼ばれたこと―私忘れちゃうんだね", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0025.wav"}
+{"pid": "ja_test_06", "kind": "ja_heldout", "lang": "ja", "text": "行くわよ！", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00239.wav"}
+{"pid": "ja_test_07", "kind": "ja_heldout", "lang": "ja", "text": "今すぐ開頭して、海馬に電極ぶっ刺してやろうかしら", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG0_kurisu_00193.wav"}
+{"pid": "ja_test_08", "kind": "ja_heldout", "lang": "ja", "text": "あんたの1秒が、私には永遠となる。", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00852.wav"}
+{"pid": "ja_test_09", "kind": "ja_heldout", "lang": "ja", "text": "……悪かった。ちょっと、気が立ってて", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01158.wav"}
+{"pid": "ja_test_10", "kind": "ja_heldout", "lang": "ja", "text": "あ…あんたの脳は貴重なサンプルだから世界線を移動しても記憶は継続してるし―タイムリープにも耐えちゃうし1度マッピングして…", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0022.wav"}
+{"pid": "ja_test_11", "kind": "ja_heldout", "lang": "ja", "text": "すみません……急に、頼ってしまって……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00102.wav"}
+{"pid": "ja_test_12", "kind": "ja_heldout", "lang": "ja", "text": "……はい、知っています", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00109.wav"}
+{"pid": "ja_test_13", "kind": "ja_heldout", "lang": "ja", "text": "……し、知らないわよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00869.wav"}
+{"pid": "ja_test_14", "kind": "ja_heldout", "lang": "ja", "text": "い、いきなり笑い出さないでよ、気色悪い", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00959.wav"}
+{"pid": "ja_test_15", "kind": "ja_heldout", "lang": "ja", "text": "ちょっと岡部、話を勝手に進めすぎ。桐生さんも戸惑ってるじゃない", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01125.wav"}
+{"pid": "ja_test_16", "kind": "ja_heldout", "lang": "ja", "text": "名前が出てこない、すなわち名前を偽ってる、っていうことね", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_02008.wav"}
+{"pid": "ja_test_17", "kind": "ja_heldout", "lang": "ja", "text": "いったいなにがしたかったのよ……？それすら教えてくれな――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01145.wav"}
+{"pid": "ja_test_18", "kind": "ja_heldout", "lang": "ja", "text": "すみません。こういうのは未経験で", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01707.wav"}
+{"pid": "ja_test_19", "kind": "ja_heldout", "lang": "ja", "text": "私も……岡部のことが――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02770.wav"}
+{"pid": "ja_test_20", "kind": "ja_heldout", "lang": "ja", "text": "ううん、なんでもない。ちょっと困ったことがあっただけだから、気にしないで。……ありがとう、綯ちゃん", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00062.wav"}
+{"pid": "ja_test_21", "kind": "ja_heldout", "lang": "ja", "text": "お世話になっている人……ですか？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00104.wav"}
+{"pid": "ja_test_22", "kind": "ja_heldout", "lang": "ja", "text": "本当に、銃声が……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02445.wav"}
+{"pid": "ja_test_23", "kind": "ja_heldout", "lang": "ja", "text": "うぅ、重いんだけど……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00410.wav"}
+{"pid": "ja_test_24", "kind": "ja_heldout", "lang": "ja", "text": "別に、泣いてなんかないからなっ！", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01131.wav"}
+{"pid": "ja_test_25", "kind": "ja_heldout", "lang": "ja", "text": "そんなわけない。少なくとも私は、このサークルのノリにうんざりしてただけよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00867.wav"}
+{"pid": "ja_test_26", "kind": "ja_heldout", "lang": "ja", "text": "その顔じゃ、成果はなしか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01942.wav"}
+{"pid": "ja_test_27", "kind": "ja_heldout", "lang": "ja", "text": "なんの解決にもなってないじゃない。どうしてそこまで自信満々でいられるのか不思議", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00860.wav"}
+{"pid": "ja_test_28", "kind": "ja_heldout", "lang": "ja", "text": "なによそれ……。日本に呼びつけておいて今さらそんな――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01125.wav"}
+{"pid": "ja_test_29", "kind": "ja_heldout", "lang": "ja", "text": "結局、根本的解決はまた先送りするのか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00865.wav"}
+{"pid": "ja_test_30", "kind": "ja_heldout", "lang": "ja", "text": "それじゃ、実験再開ね", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00863.wav"}
+{"pid": "ja_test_31", "kind": "ja_heldout", "lang": "ja", "text": "彼女、まだ自転車いじってたの？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00862.wav"}
+{"pid": "ja_test_32", "kind": "ja_heldout", "lang": "ja", "text": "名前なんてどうでもいいでしょ。いいから実験を――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00865.wav"}
+{"pid": "ja_test_33", "kind": "ja_heldout", "lang": "ja", "text": "いったいなにがしたかったのよ……？それすら教えてくれな――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01128.wav"}
+{"pid": "ja_test_34", "kind": "ja_heldout", "lang": "ja", "text": "あんた、その傷どうしたの！？大丈夫！？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02447.wav"}
+{"pid": "ja_test_35", "kind": "ja_heldout", "lang": "ja", "text": "開き直ったって無駄。なにをしようとしてるのか言いなさい", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00425.wav"}
+{"pid": "ja_test_36", "kind": "ja_heldout", "lang": "ja", "text": "……そう。結局、会うつもりなんかなかったんでしょ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01143.wav"}
+{"pid": "ja_test_37", "kind": "ja_heldout", "lang": "ja", "text": "走りすぎで脳に酸素が届いてないんじゃない？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01320.wav"}
+{"pid": "ja_test_38", "kind": "ja_heldout", "lang": "ja", "text": "そうですね…じゃあエキゾチック物質見つけてくださいよ", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_02_0041.wav"}
+{"pid": "ja_test_39", "kind": "ja_heldout", "lang": "ja", "text": "一言で言うと、これは記憶をデータ化して、リング特異点を通過させ過去へ飛ばす装置", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00044.wav"}
+{"pid": "ja_test_40", "kind": "ja_heldout", "lang": "ja", "text": "Dメールを今すぐ送って。それでなにもかも解決よ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02439.wav"}
+{"pid": "ja_test_41", "kind": "ja_heldout", "lang": "ja", "text": "あ、ごめんなさい。あなたが怪しいとか、そういうことを言ってるんじゃないから", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01119.wav"}
+{"pid": "ja_test_42", "kind": "ja_heldout", "lang": "ja", "text": "そんなわけない。少なくとも私は、このサークルのノリにうんざりしてただけよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00866.wav"}
+{"pid": "ja_test_43", "kind": "ja_heldout", "lang": "ja", "text": "その、FBってラウンダーさえ確保できたら……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00117.wav"}
+{"pid": "ja_test_44", "kind": "ja_heldout", "lang": "ja", "text": "あんたは移動なんてしていない。", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00848.wav"}
+{"pid": "ja_test_45", "kind": "ja_heldout", "lang": "ja", "text": "岡部……、まゆり……、橋田……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00235.wav"}
+{"pid": "ja_test_46", "kind": "ja_heldout", "lang": "ja", "text": "うるさいわ。それにそんな島ないだろ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01708.wav"}
+{"pid": "ja_test_47", "kind": "ja_heldout", "lang": "ja", "text": "誰が助手だ。あんたが電話に出ないから、もう1時間近くここで待ってたのよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00410.wav"}
+{"pid": "ja_test_48", "kind": "ja_heldout", "lang": "ja", "text": "……すみません。イマイチ距離感がつかめなくて", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01706.wav"}
+{"pid": "ja_test_49", "kind": "ja_heldout", "lang": "ja", "text": "そもそも、入院してなくていいの？なんでわざわざこんな時間に抜け出してきたのよ？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00476.wav"}
+{"pid": "ja_test_50", "kind": "ja_heldout", "lang": "ja", "text": "また変なあだ名を……桐生さん、もし迷惑だったら遠慮なく抗議していいのよ？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01124.wav"}
+{"pid": "ja_test_51", "kind": "ja_heldout", "lang": "ja", "text": "ありがとう。これでリフターの準備もOKね", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00233.wav"}
+{"pid": "ja_test_52", "kind": "ja_heldout", "lang": "ja", "text": "岡部なら、昼でも夜でもない、狭間の時とでも言うんでしょうね……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00236.wav"}
+{"pid": "ja_test_53", "kind": "ja_heldout", "lang": "ja", "text": "時間と空間の役割は入れ替わっている。", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00858.wav"}
+{"pid": "ja_test_54", "kind": "ja_heldout", "lang": "ja", "text": "あー、気にしないでね桐生さん。いつもの病気だから", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01127.wav"}
+{"pid": "ja_test_55", "kind": "ja_heldout", "lang": "ja", "text": "橋田と阿万音由季さんを助けたのは、阿万音鈴羽さんだった", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00483.wav"}
+{"pid": "ja_test_56", "kind": "ja_heldout", "lang": "ja", "text": "別に大したことは。言いたいことがあるならはっきり言えって", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01023.wav"}
+{"pid": "ja_test_57", "kind": "ja_heldout", "lang": "ja", "text": "あら、もうこんな時間かぁ……寝不足だと、時間感覚狂うわね", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00051.wav"}
+{"pid": "ja_test_58", "kind": "ja_heldout", "lang": "ja", "text": "別にモーニングコールしたわけじゃない", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01959.wav"}
+{"pid": "ja_test_59", "kind": "ja_heldout", "lang": "ja", "text": "待った、立ち話するならひとまずダンボール下ろさない？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00409.wav"}
+{"pid": "ja_test_60", "kind": "ja_heldout", "lang": "ja", "text": "あなたを探していたんです……助けてくれたお礼を言いたくて…", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_24_0191.wav"}
+{"pid": "ja_test_61", "kind": "ja_heldout", "lang": "ja", "text": "へ、へえ……。あんたにしてはまともな意見だな", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01837.wav"}
+{"pid": "ja_test_62", "kind": "ja_heldout", "lang": "ja", "text": "であれば橋田……あんたもしかすると鈴羽さんの父親じゃない可能性も――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00487.wav"}
+{"pid": "ja_test_63", "kind": "ja_heldout", "lang": "ja", "text": "どうしたのよ……話って何？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0004.wav"}
+{"pid": "ja_test_64", "kind": "ja_heldout", "lang": "ja", "text": "ジャンク屋じゃなくてブラウン管専門ショップでしょ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00864.wav"}
+{"pid": "ja_test_65", "kind": "ja_heldout", "lang": "ja", "text": "とにかく泣いてない。分かった？これ以上追及するなよ。ぐすっ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01152.wav"}
+{"pid": "ja_test_66", "kind": "ja_heldout", "lang": "ja", "text": "そっか。よろしくね。桐生さん", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01121.wav"}
+{"pid": "ja_test_67", "kind": "ja_heldout", "lang": "ja", "text": "そうだけど、なによいきなり", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02443.wav"}
+{"pid": "ja_test_68", "kind": "ja_heldout", "lang": "ja", "text": "あのな、いきなり全否定とか……。私が、なんのために苦労して作ったと思ってんのよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01836.wav"}
+{"pid": "ja_test_69", "kind": "ja_heldout", "lang": "ja", "text": "あんたの時間が、延々と引き延ばされているのよ。", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00851.wav"}
+{"pid": "ja_test_70", "kind": "ja_heldout", "lang": "ja", "text": "Dメールをさかのぼって取り消していけば―IBN5100があった元の世界線へ―戻れるんじゃないかしら", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0014.wav"}
+{"pid": "ja_test_71", "kind": "ja_heldout", "lang": "ja", "text": "……なんて、こんなこと考える私も相当ね", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00237.wav"}
+{"pid": "ja_test_72", "kind": "ja_heldout", "lang": "ja", "text": "形から入るのってよくないと思うけど", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01065.wav"}
+{"pid": "ja_test_73", "kind": "ja_heldout", "lang": "ja", "text": "あれ？このケータイ、電源切れてる", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00009.wav"}
+{"pid": "ja_test_74", "kind": "ja_heldout", "lang": "ja", "text": "理由を説明して、理由を", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01118.wav"}
+{"pid": "ja_test_75", "kind": "ja_heldout", "lang": "ja", "text": "肩もんであげようか？学校でどんなことあった？私になにかできることは……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01705.wav"}
+{"pid": "ja_test_76", "kind": "ja_heldout", "lang": "ja", "text": "おのれは警察に突き出されたいか？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_02_0008.wav"}
+{"pid": "ja_test_77", "kind": "ja_heldout", "lang": "ja", "text": "徹夜明けなんだから、少し休ませろ……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01732.wav"}
+{"pid": "ja_test_78", "kind": "ja_heldout", "lang": "ja", "text": "パスポートじゃあるまいし。そもそも某国ってどこだおい", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01026.wav"}
+{"pid": "ja_test_79", "kind": "ja_heldout", "lang": "ja", "text": "そうね。仕事と割り切られたら、なかなか純粋な愛情なんて注げないかも", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01709.wav"}
+{"pid": "ja_test_80", "kind": "ja_heldout", "lang": "ja", "text": "あの子って……綯ちゃんのこと？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02436.wav"}
+{"pid": "ja_test_81", "kind": "ja_heldout", "lang": "ja", "text": "とにかく泣いてない。分かった？これ以上追及するなよ……ぐすっ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01135.wav"}
+{"pid": "ja_test_82", "kind": "ja_heldout", "lang": "ja", "text": "ニワトリが先か、卵が先かって話", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00482.wav"}
+{"pid": "ja_test_83", "kind": "ja_heldout", "lang": "ja", "text": "以上で私の話は終わりですがそれでも反論があるなら聞きますよ", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_02_0044.wav"}
+{"pid": "ja_test_84", "kind": "ja_heldout", "lang": "ja", "text": "何がというわけでだ。ちゃんと説明しろ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_01115.wav"}
+{"pid": "ja_test_85", "kind": "ja_heldout", "lang": "ja", "text": "はい、そうですが", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00094.wav"}
+{"pid": "ja_test_86", "kind": "ja_heldout", "lang": "ja", "text": "このメーターがあれば、岡部以外でも世界線の変動を確認できる。そういうことか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01947.wav"}
+{"pid": "ja_test_87", "kind": "ja_heldout", "lang": "ja", "text": "でもちゃんとしたおはらいならお父さんのほうが…", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_02_0069.wav"}
+{"pid": "ja_test_88", "kind": "ja_heldout", "lang": "ja", "text": "あんたはタイムリープを繰り返して―何度もそれを？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0007.wav"}
+{"pid": "ja_test_89", "kind": "ja_heldout", "lang": "ja", "text": "これ、いったいどういう仕組みなの？世界線の数値化なんて可能とは思えない", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01946.wav"}
+{"pid": "ja_test_90", "kind": "ja_heldout", "lang": "ja", "text": "……まるで別人みたいだった", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02437.wav"}
+{"pid": "ja_test_91", "kind": "ja_heldout", "lang": "ja", "text": "どう……して……パパの名前を……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00096.wav"}
+{"pid": "ja_test_92", "kind": "ja_heldout", "lang": "ja", "text": "ううん、なんでもない。それじゃ、跳ぶわ……後のこと、お願い", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00238.wav"}
+{"pid": "ja_test_93", "kind": "ja_heldout", "lang": "ja", "text": "結局、根本的解決はまた先送りするのか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00864.wav"}
+{"pid": "ja_test_94", "kind": "ja_heldout", "lang": "ja", "text": "興味深い実験してるんですね岡部倫太郎いえ鳳凰院凶真さんでしたっけ？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_02_0255.wav"}
+{"pid": "ja_test_95", "kind": "ja_heldout", "lang": "ja", "text": "時間と空間の役割が入れ替わった場所。", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00847.wav"}
+{"pid": "ja_test_96", "kind": "ja_heldout", "lang": "ja", "text": "ありがとう。でももうしばらくここにいるわ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00423.wav"}
+{"pid": "ja_test_97", "kind": "ja_heldout", "lang": "ja", "text": "私はクリスティーナじゃないし、気になるってほどでもない。教える気がないなら別にどうでもいい", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00422.wav"}
+{"pid": "ja_test_98", "kind": "ja_heldout", "lang": "ja", "text": "なによそれ……。日本に呼びつけておいて今さらそんな――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01142.wav"}
+{"pid": "ja_test_99", "kind": "ja_heldout", "lang": "ja", "text": "ひょっとしてフェイリスさんて岡部と同類？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_17_0188.wav"}
+{"pid": "ja_test_100", "kind": "ja_heldout", "lang": "ja", "text": "救急車、呼んだ方がいい！？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02450.wav"}
+{"pid": "ja_test_101", "kind": "ja_heldout", "lang": "ja", "text": "……し、知らないわよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00868.wav"}
+{"pid": "ja_test_102", "kind": "ja_heldout", "lang": "ja", "text": "このメーターがあれば、岡部以外でも世界線の変動を確認できる。そういうことか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01961.wav"}
+{"pid": "ja_test_103", "kind": "ja_heldout", "lang": "ja", "text": "これ、いったいどういう仕組みなの？世界線の数値化なんて可能とは思えない", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01960.wav"}
+{"pid": "ja_test_104", "kind": "ja_heldout", "lang": "ja", "text": "岡部……。どうしちゃったのよ、あんた……", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00072.wav"}
+{"pid": "ja_test_105", "kind": "ja_heldout", "lang": "ja", "text": "因果がループしているのよ。これはタイムパラドックスであり、絶対に成立しないはずなの", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00486.wav"}
+{"pid": "ja_test_106", "kind": "ja_heldout", "lang": "ja", "text": "戻ってない。暗くなったし、直接帰ったんじゃない？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01943.wav"}
+{"pid": "ja_test_107", "kind": "ja_heldout", "lang": "ja", "text": "うっさい。話しかけるな", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01137.wav"}
+{"pid": "ja_test_108", "kind": "ja_heldout", "lang": "ja", "text": "阿万音さんのことは岡部からだいたい聞いた", "real": "/workspace/kurisu/build_v3/wavs/game_ja_PHENO_kurisu_00480.wav"}
+{"pid": "ja_test_109", "kind": "ja_heldout", "lang": "ja", "text": "なんの解決にもなってないだろ。どうしてそこまで自信満々でいられるのか不思議", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00859.wav"}
+{"pid": "ja_test_110", "kind": "ja_heldout", "lang": "ja", "text": "で？どう設定すればいいんだ？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01239.wav"}
+{"pid": "ja_test_111", "kind": "ja_heldout", "lang": "ja", "text": "戻ってない。暗くなったし、直接帰ったんじゃない？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01957.wav"}
+{"pid": "ja_test_112", "kind": "ja_heldout", "lang": "ja", "text": "岡部、気にすることない", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_02438.wav"}
+{"pid": "ja_test_113", "kind": "ja_heldout", "lang": "ja", "text": "これを使って、なにをするの？昨日、SERNがどうとか言ってたけど", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00421.wav"}
+{"pid": "ja_test_114", "kind": "ja_heldout", "lang": "ja", "text": "それに岡部みたいなヒョロ男が向かっていっても、あの店長にはかなわないでしょ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00862.wav"}
+{"pid": "ja_test_115", "kind": "ja_heldout", "lang": "ja", "text": "その顔じゃ、成果はなしか", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01956.wav"}
+{"pid": "ja_test_116", "kind": "ja_heldout", "lang": "ja", "text": "うっさい。話しかけるな", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01154.wav"}
+{"pid": "ja_test_117", "kind": "ja_heldout", "lang": "ja", "text": "名前なんてどうでもいいだろ。いいから実験を――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00866.wav"}
+{"pid": "ja_test_118", "kind": "ja_heldout", "lang": "ja", "text": "はあ？それじゃ意味ないじゃない。もっとまともなもの作りなさいよ岡部", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01962.wav"}
+{"pid": "ja_test_119", "kind": "ja_heldout", "lang": "ja", "text": "訳も分からず運ばされたけど――", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_00420.wav"}
+{"pid": "ja_test_120", "kind": "ja_heldout", "lang": "ja", "text": "さっき私が来たときも階段の前にいて、思い切りにらまれた", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00863.wav"}
+{"pid": "ja_test_121", "kind": "ja_heldout", "lang": "ja", "text": "つまり、手がかりは無し？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01953.wav"}
+{"pid": "ja_test_122", "kind": "ja_heldout", "lang": "ja", "text": "え？どうして私の名前を？……どこかでお会いしましたっけ？", "real": "/workspace/kurisu/build_v3/wavs/anime_ja_sg_24_0068.wav"}
+{"pid": "ja_test_123", "kind": "ja_heldout", "lang": "ja", "text": "つまり、手がかりは無し？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_01939.wav"}
+{"pid": "ja_test_124", "kind": "ja_heldout", "lang": "ja", "text": "何がおかしいんです、先輩？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG0_kurisu_00001.wav"}
+{"pid": "ja_test_125", "kind": "ja_heldout", "lang": "ja", "text": "それに岡部みたいなヒョロ男が向かっていっても、あの店長にはかなわないでしょ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG_kurisu_00861.wav"}
+{"pid": "ja_test_126", "kind": "ja_heldout", "lang": "ja", "text": "いい加減なこと言わないで。証拠はあるの！？", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SGRE_kurisu_01132.wav"}
+{"pid": "ja_test_127", "kind": "ja_heldout", "lang": "ja", "text": "ちょっと岡部、いつまでもそんなところで寝てると、風邪ひくわよ", "real": "/workspace/kurisu/build_v3/wavs/game_ja_SG0_kurisu_00206.wav"}

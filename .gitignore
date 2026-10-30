@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.wav
+*.flac
+*.mp3
+*.safetensors
+*.pt
+*.npz
+*.npy
+.env
+*token*.txt
+runs/
+.venv*/

@@ -1,0 +1,95 @@
+{
+  "suite": "v3",
+  "ref": "starrydark/Kurisu_Qwen3_TTS@92a08362cb2c95f7dfc8a7ecf4cc00db625f9d57",
+  "A1_ok": true,
+  "e1": [
+    "/workspace/kurisu/runs/E1a/checkpoint-step-240",
+    "/workspace/kurisu/runs/E1b/checkpoint-step-240"
+  ],
+  "e1_spread": {
+    "m1": 4.186134375,
+    "ser_shared": 0.06924480519480519
+  },
+  "m1_valid": true,
+  "A10": {
+    "M1": {
+      "B": -19.9389,
+      "D": -22.6227,
+      "F": -13.0069
+    },
+    "midpoint_FD": -17.8148,
+    "n_texts": 80,
+    "M1_valid": true,
+    "gate": true,
+    "reason": "pseudo-Mandarin route (E4) runs",
+    "validity_means_check": {
+      "B": -19.9389,
+      "D": -22.6227,
+      "F": -13.0069
+    }
+  },
+  "runs": {
+    "E2": {
+      "key": null,
+      "verdict": "SKIP",
+      "reasons": [
+        "run not given"
+      ]
+    },
+    "E3": {
+      "key": "/workspace/kurisu/runs/E3/checkpoint-step-283",
+      "verdict": "ADOPT",
+      "reasons": [
+        "A2 screen passes (S=2: dCER -0.0076 ub90 -0.0023, dSIM lb90 -0.0095, runaway 0, Auto dCER -0.0021)",
+        "zh M1 vs E1 -5.1924 (n 160) beyond -spread 4.1861",
+        "zh shared-char SER vs E1 -0.0504 (not worse)"
+      ],
+      "dM1": -5.1924090625,
+      "dSER_shared": -0.05035811688311689
+    },
+    "E3f": {
+      "key": null,
+      "verdict": "SKIP",
+      "reasons": [
+        "run not given"
+      ]
+    },
+    "E4": {
+      "key": "/workspace/kurisu/runs/E4b/checkpoint-step-299",
+      "verdict": "ADOPT",
+      "reasons": [
+        "A2 screen passes (S=2: dCER -0.0037 ub90 0.0022, dSIM lb90 0.0008, runaway 0, Auto dCER 0.0013)",
+        "zh M1 vs parent -5.5858 (n 160) beyond -spread 4.1861",
+        "zh SIM vs parent -0.0068 (drop <= 0.03)"
+      ],
+      "dM1": -5.58577875,
+      "dSIM_zh": -0.0068112499999999935
+    },
+    "E5": {
+      "key": null,
+      "verdict": "SKIP",
+      "reasons": [
+        "run not given"
+      ]
+    },
+    "E6": {
+      "key": null,
+      "verdict": "SKIP",
+      "reasons": [
+        "run not given"
+      ]
+    },
+    "E7": {
+      "key": null,
+      "verdict": "SKIP",
+      "reasons": [
+        "run not given"
+      ]
+    }
+  },
+  "adopted": [
+    "E3",
+    "E4"
+  ],
+  "conclusion": "final = E1 recipe + ['E3', 'E4']"
+}

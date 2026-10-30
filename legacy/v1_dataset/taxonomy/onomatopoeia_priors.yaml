@@ -1,0 +1,18 @@
+# Japanese onomatopoeia priors.
+# These are a PRIOR only. A written vocalisation never becomes a tag on
+# its own - the audio model has to agree first (supplement s3).
+# Generated from pipeline/common.py - edit there, not here.
+version: 1
+priors:
+  - name: laugh_onomatopoeia
+    expected_families: [chuckle, giggle, laugh]
+    pattern: '^[っッ…。！？\\s]*(?:ふふ+|フフ+|うふふ|あはは|アハハ|ははは|ハハハ|えへへ|ヘヘ|くすっ?|クスッ?|ウフフッ?)[っッー…。！？\\s]*$'
+  - name: sigh_onomatopoeia
+    expected_families: [breath, sigh]
+    pattern: '^[…\\s]*(?:はぁ|ハァ|はあ|ふぅ|フゥ|ふう)[っッー…。\\s]*$'
+  - name: gasp_onomatopoeia
+    expected_families: [breath, gasp]
+    pattern: '^[…\\s]*(?:はっ|ハッ|ひっ|ひゃっ?|きゃぁ?)[っッ…。！？\\s]*$'
+  - name: strain_onomatopoeia
+    expected_families: [groan, grunt, moan]
+    pattern: '^[…\\s]*(?:んっ|うっ|ぐっ|くぅ|うぐ|ううっ)[っッー…。！？\\s]*$'

@@ -1,0 +1,254 @@
+{
+ "description": "Blind Mandarin accent rating of Kurisu v3 (2026-10-29). One listener (the repository owner). Each sentence was read by five systems, shuffled and anonymised; each clip rated 1-5 for how native the Mandarin sounds (5 native, 4 slight accent, 3 clear accent, 2 strong accent, 1 barely Mandarin). First sampling seed of every system; nothing cherry-picked.",
+ "systems": {
+  "native_anchor": "Base model cloning a native Mandarin speaker (different voice)",
+  "v2_auto": "v2, language Auto (as the old Space served it)",
+  "v2_chinese": "v2, language Chinese",
+  "v3_chinese": "this model (v3), language Chinese",
+  "japanese_read_anchor": "Qwen's Japanese voice told the text is Japanese (different voice)"
+ },
+ "summary": {
+  "mean": {
+   "native_anchor": 5.0,
+   "v3_chinese": 5.0,
+   "v2_chinese": 3.94,
+   "v2_auto": 3.56,
+   "japanese_read_anchor": 1.06
+  },
+  "ci95_bootstrap_over_sentences": {
+   "v2_chinese": [
+    3.38,
+    4.5
+   ],
+   "v2_auto": [
+    2.88,
+    4.25
+   ],
+   "japanese_read_anchor": [
+    1.0,
+    1.19
+   ]
+  },
+  "v3_minus_v2_chinese": {
+   "mean": 1.06,
+   "ci95": [
+    0.56,
+    1.62
+   ],
+   "better_tie_worse": [
+    9,
+    7,
+    0
+   ],
+   "sign_test_p": 0.0039
+  },
+  "v3_minus_v2_auto": {
+   "mean": 1.44,
+   "ci95": [
+    0.75,
+    2.12
+   ],
+   "better_tie_worse": [
+    9,
+    7,
+    0
+   ],
+   "sign_test_p": 0.0039
+  },
+  "v2_chinese_minus_v2_auto": {
+   "mean": 0.38,
+   "ci95": [
+    -0.12,
+    0.94
+   ],
+   "better_tie_worse": [
+    6,
+    7,
+    3
+   ],
+   "sign_test_p": 0.51
+  },
+  "spearman_vs_shared_char_ser": {
+   "all_80_clips": -0.84,
+   "kurisu_voiced_48_clips": -0.73
+  }
+ },
+ "sentences": [
+  {
+   "text": "父亲是一位有名的物理学家，母亲是医生。",
+   "category": "shared",
+   "scores": {
+    "v2_auto": 3,
+    "native_anchor": 5,
+    "v3_chinese": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 4
+   }
+  },
+  {
+   "text": "每个月的第一天，大家都会在实验室开会。",
+   "category": "shared",
+   "scores": {
+    "v3_chinese": 5,
+    "v2_auto": 5,
+    "v2_chinese": 4,
+    "native_anchor": 5,
+    "japanese_read_anchor": 1
+   }
+  },
+  {
+   "text": "日本和中国的文化有很多共同点，也有不少区别。",
+   "category": "shared",
+   "scores": {
+    "v3_chinese": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 2,
+    "native_anchor": 5,
+    "v2_auto": 3
+   }
+  },
+  {
+   "text": "学生们正在教室里认真地准备期末考试。",
+   "category": "shared",
+   "scores": {
+    "v2_auto": 2,
+    "v3_chinese": 5,
+    "native_anchor": 5,
+    "v2_chinese": 4,
+    "japanese_read_anchor": 1
+   }
+  },
+  {
+   "text": "先生，请问东京大学的研究所怎么走？",
+   "category": "shared",
+   "scores": {
+    "native_anchor": 5,
+    "v2_chinese": 3,
+    "v2_auto": 3,
+    "v3_chinese": 5,
+    "japanese_read_anchor": 1
+   }
+  },
+  {
+   "text": "时间旅行在理论上并非完全不可能。",
+   "category": "shared",
+   "scores": {
+    "native_anchor": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 2,
+    "v3_chinese": 5,
+    "v2_auto": 2
+   }
+  },
+  {
+   "text": "研究室的冰箱里只剩下一瓶饮料了。",
+   "category": "shared",
+   "scores": {
+    "v3_chinese": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 3,
+    "v2_auto": 2,
+    "native_anchor": 5
+   }
+  },
+  {
+   "text": "我的生日是7月25日，那天正好是星期六。",
+   "category": "numbers",
+   "scores": {
+    "japanese_read_anchor": 1,
+    "native_anchor": 5,
+    "v2_auto": 2,
+    "v3_chinese": 5,
+    "v2_chinese": 5
+   }
+  },
+  {
+   "text": "圆周率大约等于3.14159。",
+   "category": "numbers",
+   "scores": {
+    "v2_auto": 1,
+    "japanese_read_anchor": 1,
+    "native_anchor": 5,
+    "v3_chinese": 5,
+    "v2_chinese": 2
+   }
+  },
+  {
+   "text": "现在是晚上11点45分，离截止时间只剩15分钟了。",
+   "category": "numbers",
+   "scores": {
+    "v3_chinese": 5,
+    "v2_chinese": 4,
+    "native_anchor": 5,
+    "japanese_read_anchor": 1,
+    "v2_auto": 5
+   }
+  },
+  {
+   "text": "你们俩怎么还没吃呢？",
+   "category": "control",
+   "scores": {
+    "native_anchor": 5,
+    "v2_chinese": 5,
+    "v2_auto": 5,
+    "japanese_read_anchor": 1,
+    "v3_chinese": 5
+   }
+  },
+  {
+   "text": "哪个是你的？这个还是那个？",
+   "category": "control",
+   "scores": {
+    "japanese_read_anchor": 2,
+    "native_anchor": 5,
+    "v3_chinese": 5,
+    "v2_auto": 5,
+    "v2_chinese": 5
+   }
+  },
+  {
+   "text": "不要着急，慢慢来，一步一步地走。",
+   "category": "sandhi",
+   "scores": {
+    "native_anchor": 5,
+    "japanese_read_anchor": 1,
+    "v2_auto": 4,
+    "v3_chinese": 5,
+    "v2_chinese": 5
+   }
+  },
+  {
+   "text": "我们一起去看看吧，说不定很有意思。",
+   "category": "sandhi",
+   "scores": {
+    "native_anchor": 5,
+    "v3_chinese": 5,
+    "v2_auto": 5,
+    "v2_chinese": 5,
+    "japanese_read_anchor": 1
+   }
+  },
+  {
+   "text": "虽然这台机器看起来只是一台普通的微波炉，但是它其实可以把短信发送到过去，这个发现可能会改变整个人类的历史。",
+   "category": "long",
+   "scores": {
+    "v2_auto": 5,
+    "v3_chinese": 5,
+    "native_anchor": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 5
+   }
+  },
+  {
+   "text": "如果把时间看作一条河流，那么世界线就是河流的分支，而我们的每一个选择，都可能让未来走向完全不同的方向。",
+   "category": "long",
+   "scores": {
+    "v2_auto": 5,
+    "japanese_read_anchor": 1,
+    "v2_chinese": 5,
+    "v3_chinese": 5,
+    "native_anchor": 5
+   }
+  }
+ ]
+}

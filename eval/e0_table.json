@@ -1,0 +1,1727 @@
+{
+  "A": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0014,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4288,
+          "runaway": 0,
+          "dur_ratio_med": 0.884
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -18.1482,
+            "sd": 4.2328
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.8764,
+            "sd": 0.2465
+          },
+          "frac_p_target_lt_0.9": 0.23,
+          "lid_top1": {
+            "en": 92,
+            "cy": 5,
+            "is": 1,
+            "ko": 1,
+            "la": 1
+          },
+          "sec_per_clip": 0.0271
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0612,
+          "cer_gt20": 0.087,
+          "sim_mean": 0.5714,
+          "runaway": 1,
+          "dur_ratio_med": 0.932
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -19.2945,
+            "sd": 6.1548
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.9727,
+            "sd": 0.1292
+          },
+          "frac_p_target_lt_0.9": 0.0437,
+          "lid_top1": {
+            "zh": 158,
+            "th": 1,
+            "bo": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.0894,
+          "ser": {
+            "n": 160,
+            "mean": 0.1072,
+            "sd": 0.2637
+          },
+          "ser_shared_micro": 0.065,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.0652,
+            "sd": 0.1137
+          },
+          "ini_err_micro": 0.0359,
+          "fin_err_micro": 0.0417,
+          "ter_micro": 0.0287,
+          "ter_strict_micro": 0.0461,
+          "ter": {
+            "n": 160,
+            "mean": 0.0347,
+            "sd": 0.0536
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.0557,
+            "sd": 0.0694
+          },
+          "tone_confusion": [
+            [
+              469,
+              2,
+              0,
+              14,
+              5
+            ],
+            [
+              12,
+              621,
+              18,
+              21,
+              3
+            ],
+            [
+              0,
+              8,
+              422,
+              2,
+              0
+            ],
+            [
+              10,
+              9,
+              1,
+              1003,
+              0
+            ],
+            [
+              2,
+              0,
+              1,
+              27,
+              281
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0815
+        }
+      }
+    }
+  },
+  "B": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0032,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4295,
+          "runaway": 0,
+          "dur_ratio_med": 0.895
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -17.9607,
+            "sd": 5.1458
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9235,
+            "sd": 0.1408
+          },
+          "frac_p_target_lt_0.9": 0.18,
+          "lid_top1": {
+            "en": 98,
+            "cy": 2
+          },
+          "sec_per_clip": 0.0087
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.044,
+          "cer_gt20": 0.031,
+          "sim_mean": 0.5681,
+          "runaway": 2,
+          "dur_ratio_med": 0.936
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -19.9389,
+            "sd": 6.2073
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.9777,
+            "sd": 0.1186
+          },
+          "frac_p_target_lt_0.9": 0.0375,
+          "lid_top1": {
+            "zh": 158,
+            "ms": 1,
+            "sl": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.0826,
+          "ser": {
+            "n": 160,
+            "mean": 0.0984,
+            "sd": 0.2866
+          },
+          "ser_shared_micro": 0.0515,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.0566,
+            "sd": 0.1245
+          },
+          "ini_err_micro": 0.022,
+          "fin_err_micro": 0.0343,
+          "ter_micro": 0.028,
+          "ter_strict_micro": 0.0445,
+          "ter": {
+            "n": 160,
+            "mean": 0.034,
+            "sd": 0.0618
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.055,
+            "sd": 0.0742
+          },
+          "tone_confusion": [
+            [
+              474,
+              3,
+              0,
+              16,
+              5
+            ],
+            [
+              9,
+              646,
+              16,
+              24,
+              2
+            ],
+            [
+              0,
+              10,
+              424,
+              2,
+              0
+            ],
+            [
+              7,
+              3,
+              4,
+              1009,
+              0
+            ],
+            [
+              1,
+              0,
+              2,
+              28,
+              279
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0153
+        }
+      }
+    }
+  },
+  "C": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0339,
+          "cer_gt20": 0.02,
+          "sim_mean": 0.4735,
+          "runaway": 1,
+          "dur_ratio_med": 0.87
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -2.7255,
+            "sd": 9.1254
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.2388,
+            "sd": 0.3739
+          },
+          "frac_p_target_lt_0.9": 0.86,
+          "lid_top1": {
+            "en": 25,
+            "ja": 20,
+            "la": 12,
+            "nn": 6,
+            "ms": 6,
+            "tl": 4,
+            "bg": 3,
+            "sv": 2,
+            "mt": 2,
+            "sw": 2,
+            "cy": 2,
+            "de": 2,
+            "is": 1,
+            "th": 1,
+            "ko": 1,
+            "mg": 1,
+            "ar": 1,
+            "sco": 1,
+            "fa": 1,
+            "ceb": 1,
+            "fi": 1,
+            "ro": 1,
+            "pt": 1,
+            "te": 1,
+            "af": 1,
+            "hu": 1
+          },
+          "sec_per_clip": 0.0089
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.6957,
+          "cer_gt20": 0.925,
+          "sim_mean": 0.558,
+          "runaway": 4,
+          "dur_ratio_med": 0.918
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": 13.9797,
+            "sd": 6.3486
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.0102,
+            "sd": 0.0793
+          },
+          "frac_p_target_lt_0.9": 0.9938,
+          "lid_top1": {
+            "ja": 155,
+            "te": 1,
+            "mg": 1,
+            "th": 1,
+            "ms": 1,
+            "zh": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.9552,
+          "ser": {
+            "n": 160,
+            "mean": 0.9535,
+            "sd": 0.5742
+          },
+          "ser_shared_micro": 0.7726,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.755,
+            "sd": 0.2038
+          },
+          "ini_err_micro": 0.5935,
+          "fin_err_micro": 0.6252,
+          "ter_micro": 0.2906,
+          "ter_strict_micro": 0.3465,
+          "ter": {
+            "n": 158,
+            "mean": 0.3217,
+            "sd": 0.2639
+          },
+          "ter_strict": {
+            "n": 158,
+            "mean": 0.3774,
+            "sd": 0.2751
+          },
+          "tone_confusion": [
+            [
+              84,
+              12,
+              10,
+              21,
+              2
+            ],
+            [
+              16,
+              97,
+              30,
+              34,
+              5
+            ],
+            [
+              12,
+              22,
+              103,
+              25,
+              3
+            ],
+            [
+              30,
+              41,
+              20,
+              178,
+              0
+            ],
+            [
+              1,
+              3,
+              3,
+              26,
+              134
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0158
+        }
+      }
+    }
+  },
+  "D": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0014,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.1175,
+          "runaway": 0,
+          "dur_ratio_med": 0.98
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -19.237,
+            "sd": 4.1906
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9876,
+            "sd": 0.0372
+          },
+          "frac_p_target_lt_0.9": 0.03,
+          "lid_top1": {
+            "en": 100
+          },
+          "sec_per_clip": 0.0083
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0126,
+          "cer_gt20": 0.019,
+          "sim_mean": 0.2274,
+          "runaway": 0,
+          "dur_ratio_med": 0.885
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -22.6227,
+            "sd": 6.3899
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.9983,
+            "sd": 0.0103
+          },
+          "frac_p_target_lt_0.9": 0.0063,
+          "lid_top1": {
+            "zh": 160
+          },
+          "n_m23": 160,
+          "ser_micro": 0.0596,
+          "ser": {
+            "n": 160,
+            "mean": 0.0714,
+            "sd": 0.0859
+          },
+          "ser_shared_micro": 0.0388,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.0482,
+            "sd": 0.086
+          },
+          "ini_err_micro": 0.01,
+          "fin_err_micro": 0.0237,
+          "ter_micro": 0.0338,
+          "ter_strict_micro": 0.0508,
+          "ter": {
+            "n": 160,
+            "mean": 0.0383,
+            "sd": 0.0532
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.061,
+            "sd": 0.0708
+          },
+          "tone_confusion": [
+            [
+              472,
+              3,
+              1,
+              18,
+              7
+            ],
+            [
+              8,
+              657,
+              16,
+              21,
+              2
+            ],
+            [
+              0,
+              13,
+              415,
+              3,
+              1
+            ],
+            [
+              10,
+              13,
+              5,
+              1018,
+              0
+            ],
+            [
+              2,
+              0,
+              2,
+              27,
+              278
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0142
+        }
+      }
+    }
+  },
+  "E": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0014,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4198,
+          "runaway": 0,
+          "dur_ratio_med": 0.915
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -16.619,
+            "sd": 4.8321
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9087,
+            "sd": 0.1927
+          },
+          "frac_p_target_lt_0.9": 0.23,
+          "lid_top1": {
+            "en": 96,
+            "cy": 2,
+            "mt": 1,
+            "sco": 1
+          },
+          "sec_per_clip": 0.0087
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.154,
+          "cer_gt20": 0.225,
+          "sim_mean": 0.6334,
+          "runaway": 0,
+          "dur_ratio_med": 1.023
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -6.5814,
+            "sd": 12.1872
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.6468,
+            "sd": 0.4331
+          },
+          "frac_p_target_lt_0.9": 0.4562,
+          "lid_top1": {
+            "zh": 107,
+            "ja": 38,
+            "bo": 6,
+            "fi": 2,
+            "th": 2,
+            "ml": 1,
+            "uz": 1,
+            "cy": 1,
+            "sl": 1,
+            "iw": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.2732,
+          "ser": {
+            "n": 160,
+            "mean": 0.3132,
+            "sd": 0.2819
+          },
+          "ser_shared_micro": 0.2519,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.2893,
+            "sd": 0.2844
+          },
+          "ini_err_micro": 0.1437,
+          "fin_err_micro": 0.1701,
+          "ter_micro": 0.0605,
+          "ter_strict_micro": 0.0775,
+          "ter": {
+            "n": 160,
+            "mean": 0.0971,
+            "sd": 0.1388
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.1153,
+            "sd": 0.1367
+          },
+          "tone_confusion": [
+            [
+              359,
+              4,
+              5,
+              19,
+              3
+            ],
+            [
+              12,
+              479,
+              26,
+              29,
+              1
+            ],
+            [
+              3,
+              9,
+              353,
+              5,
+              1
+            ],
+            [
+              13,
+              16,
+              13,
+              789,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              25,
+              246
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0143
+        }
+      }
+    }
+  },
+  "F": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0016,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4396,
+          "runaway": 0,
+          "dur_ratio_med": 0.927
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -15.7842,
+            "sd": 4.7179
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.8683,
+            "sd": 0.2372
+          },
+          "frac_p_target_lt_0.9": 0.27,
+          "lid_top1": {
+            "en": 91,
+            "cy": 4,
+            "ms": 1,
+            "sco": 1,
+            "id": 1,
+            "sw": 1,
+            "ko": 1
+          },
+          "sec_per_clip": 0.0088
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0564,
+          "cer_gt20": 0.106,
+          "sim_mean": 0.6262,
+          "runaway": 0,
+          "dur_ratio_med": 1.0
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -13.0069,
+            "sd": 6.5787
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.842,
+            "sd": 0.3139
+          },
+          "frac_p_target_lt_0.9": 0.225,
+          "lid_top1": {
+            "zh": 138,
+            "bo": 11,
+            "ja": 4,
+            "nn": 1,
+            "ha": 1,
+            "sl": 1,
+            "af": 1,
+            "sw": 1,
+            "mg": 1,
+            "ne": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.1618,
+          "ser": {
+            "n": 160,
+            "mean": 0.194,
+            "sd": 0.1604
+          },
+          "ser_shared_micro": 0.1388,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.1685,
+            "sd": 0.1895
+          },
+          "ini_err_micro": 0.0696,
+          "fin_err_micro": 0.0914,
+          "ter_micro": 0.0391,
+          "ter_strict_micro": 0.0554,
+          "ter": {
+            "n": 160,
+            "mean": 0.0506,
+            "sd": 0.0724
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.0679,
+            "sd": 0.0785
+          },
+          "tone_confusion": [
+            [
+              423,
+              2,
+              0,
+              17,
+              4
+            ],
+            [
+              10,
+              579,
+              14,
+              26,
+              2
+            ],
+            [
+              0,
+              6,
+              397,
+              4,
+              0
+            ],
+            [
+              15,
+              12,
+              7,
+              895,
+              0
+            ],
+            [
+              1,
+              2,
+              3,
+              25,
+              265
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0144
+        }
+      }
+    }
+  },
+  "G25": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0011,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4356,
+          "runaway": 0,
+          "dur_ratio_med": 0.884
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -17.9742,
+            "sd": 4.9292
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9175,
+            "sd": 0.1865
+          },
+          "frac_p_target_lt_0.9": 0.19,
+          "lid_top1": {
+            "en": 94,
+            "cy": 5,
+            "sq": 1
+          },
+          "sec_per_clip": 0.009
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0634,
+          "cer_gt20": 0.044,
+          "sim_mean": 0.5916,
+          "runaway": 2,
+          "dur_ratio_med": 0.955
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -18.551,
+            "sd": 6.0706
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.9723,
+            "sd": 0.1283
+          },
+          "frac_p_target_lt_0.9": 0.0563,
+          "lid_top1": {
+            "zh": 157,
+            "sl": 3
+          },
+          "n_m23": 160,
+          "ser_micro": 0.106,
+          "ser": {
+            "n": 160,
+            "mean": 0.121,
+            "sd": 0.3479
+          },
+          "ser_shared_micro": 0.0629,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.0835,
+            "sd": 0.1686
+          },
+          "ini_err_micro": 0.0314,
+          "fin_err_micro": 0.0392,
+          "ter_micro": 0.0337,
+          "ter_strict_micro": 0.0501,
+          "ter": {
+            "n": 159,
+            "mean": 0.0395,
+            "sd": 0.062
+          },
+          "ter_strict": {
+            "n": 159,
+            "mean": 0.0603,
+            "sd": 0.0793
+          },
+          "tone_confusion": [
+            [
+              456,
+              7,
+              0,
+              17,
+              9
+            ],
+            [
+              7,
+              625,
+              17,
+              31,
+              1
+            ],
+            [
+              1,
+              7,
+              426,
+              5,
+              0
+            ],
+            [
+              4,
+              8,
+              5,
+              1004,
+              0
+            ],
+            [
+              3,
+              1,
+              1,
+              23,
+              277
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0149
+        }
+      }
+    }
+  },
+  "G50": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0,
+          "cer_gt20": 0.0,
+          "sim_mean": 0.4385,
+          "runaway": 0,
+          "dur_ratio_med": 0.887
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -17.4211,
+            "sd": 3.9293
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9468,
+            "sd": 0.1172
+          },
+          "frac_p_target_lt_0.9": 0.13,
+          "lid_top1": {
+            "en": 99,
+            "cy": 1
+          },
+          "sec_per_clip": 0.0083
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0332,
+          "cer_gt20": 0.05,
+          "sim_mean": 0.6281,
+          "runaway": 0,
+          "dur_ratio_med": 0.956
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -17.5739,
+            "sd": 6.0996
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.964,
+            "sd": 0.147
+          },
+          "frac_p_target_lt_0.9": 0.0625,
+          "lid_top1": {
+            "zh": 156,
+            "bo": 2,
+            "ru": 1,
+            "ha": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.0839,
+          "ser": {
+            "n": 160,
+            "mean": 0.0989,
+            "sd": 0.1059
+          },
+          "ser_shared_micro": 0.0696,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.0953,
+            "sd": 0.1695
+          },
+          "ini_err_micro": 0.0344,
+          "fin_err_micro": 0.0425,
+          "ter_micro": 0.0326,
+          "ter_strict_micro": 0.0477,
+          "ter": {
+            "n": 160,
+            "mean": 0.0382,
+            "sd": 0.0663
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.0566,
+            "sd": 0.0768
+          },
+          "tone_confusion": [
+            [
+              463,
+              1,
+              0,
+              15,
+              4
+            ],
+            [
+              8,
+              630,
+              14,
+              26,
+              2
+            ],
+            [
+              0,
+              8,
+              419,
+              6,
+              0
+            ],
+            [
+              13,
+              6,
+              6,
+              987,
+              0
+            ],
+            [
+              2,
+              0,
+              2,
+              26,
+              279
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0151
+        }
+      }
+    }
+  },
+  "G75": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0038,
+          "cer_gt20": 0.01,
+          "sim_mean": 0.4427,
+          "runaway": 0,
+          "dur_ratio_med": 0.908
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -16.8727,
+            "sd": 4.7446
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.9091,
+            "sd": 0.1985
+          },
+          "frac_p_target_lt_0.9": 0.18,
+          "lid_top1": {
+            "en": 95,
+            "cy": 4,
+            "la": 1
+          },
+          "sec_per_clip": 0.0093
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.0492,
+          "cer_gt20": 0.094,
+          "sim_mean": 0.623,
+          "runaway": 0,
+          "dur_ratio_med": 1.016
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -15.6151,
+            "sd": 6.6866
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.9114,
+            "sd": 0.2185
+          },
+          "frac_p_target_lt_0.9": 0.1625,
+          "lid_top1": {
+            "zh": 148,
+            "bo": 3,
+            "sl": 2,
+            "ja": 2,
+            "ru": 1,
+            "th": 1,
+            "ne": 1,
+            "mg": 1,
+            "ta": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.1268,
+          "ser": {
+            "n": 160,
+            "mean": 0.1525,
+            "sd": 0.1483
+          },
+          "ser_shared_micro": 0.1021,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.1174,
+            "sd": 0.1517
+          },
+          "ini_err_micro": 0.0516,
+          "fin_err_micro": 0.0697,
+          "ter_micro": 0.0387,
+          "ter_strict_micro": 0.0551,
+          "ter": {
+            "n": 160,
+            "mean": 0.0459,
+            "sd": 0.0671
+          },
+          "ter_strict": {
+            "n": 160,
+            "mean": 0.0672,
+            "sd": 0.0815
+          },
+          "tone_confusion": [
+            [
+              452,
+              3,
+              0,
+              12,
+              4
+            ],
+            [
+              9,
+              591,
+              19,
+              21,
+              2
+            ],
+            [
+              1,
+              9,
+              402,
+              4,
+              1
+            ],
+            [
+              21,
+              11,
+              9,
+              941,
+              0
+            ],
+            [
+              0,
+              1,
+              2,
+              26,
+              274
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0145
+        }
+      }
+    }
+  },
+  "H": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.0599,
+          "cer_gt20": 0.08,
+          "sim_mean": 0.3181,
+          "runaway": 0,
+          "dur_ratio_med": 1.097
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -1.2919,
+            "sd": 6.3132
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.1959,
+            "sd": 0.299
+          },
+          "frac_p_target_lt_0.9": 0.95,
+          "lid_top1": {
+            "en": 24,
+            "ja": 17,
+            "ko": 6,
+            "bg": 5,
+            "la": 4,
+            "cy": 4,
+            "sk": 3,
+            "nn": 3,
+            "mt": 3,
+            "iw": 3,
+            "sv": 3,
+            "lb": 2,
+            "sq": 2,
+            "tl": 2,
+            "ca": 1,
+            "uz": 1,
+            "ba": 1,
+            "br": 1,
+            "kn": 1,
+            "sw": 1,
+            "lv": 1,
+            "bo": 1,
+            "de": 1,
+            "ka": 1,
+            "yi": 1,
+            "tr": 1,
+            "mr": 1,
+            "eo": 1,
+            "ro": 1,
+            "eu": 1,
+            "oc": 1,
+            "hr": 1,
+            "lo": 1
+          },
+          "sec_per_clip": 0.0086
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.8499,
+          "cer_gt20": 0.988,
+          "sim_mean": 0.3574,
+          "runaway": 1,
+          "dur_ratio_med": 1.152
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": 13.276,
+            "sd": 5.4013
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.0019,
+            "sd": 0.008
+          },
+          "frac_p_target_lt_0.9": 1.0,
+          "lid_top1": {
+            "ja": 143,
+            "ko": 6,
+            "bo": 2,
+            "as": 1,
+            "sl": 1,
+            "te": 1,
+            "mg": 1,
+            "kk": 1,
+            "br": 1,
+            "tt": 1,
+            "ne": 1,
+            "tg": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 1.0637,
+          "ser": {
+            "n": 160,
+            "mean": 1.0838,
+            "sd": 0.7431
+          },
+          "ser_shared_micro": 0.7751,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.7806,
+            "sd": 0.1741
+          },
+          "ini_err_micro": 0.6114,
+          "fin_err_micro": 0.66,
+          "ter_micro": 0.3685,
+          "ter_strict_micro": 0.4121,
+          "ter": {
+            "n": 158,
+            "mean": 0.3798,
+            "sd": 0.2902
+          },
+          "ter_strict": {
+            "n": 158,
+            "mean": 0.4232,
+            "sd": 0.3005
+          },
+          "tone_confusion": [
+            [
+              58,
+              13,
+              11,
+              19,
+              1
+            ],
+            [
+              12,
+              70,
+              34,
+              38,
+              1
+            ],
+            [
+              13,
+              20,
+              87,
+              40,
+              5
+            ],
+            [
+              54,
+              36,
+              19,
+              138,
+              2
+            ],
+            [
+              0,
+              5,
+              1,
+              16,
+              132
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0157
+        }
+      }
+    },
+    "note": "wrong-language anchor (reads hanzi as Japanese); informational, not used for validity"
+  },
+  "J": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 100,
+          "cer_mean": 0.02,
+          "cer_gt20": 0.02,
+          "sim_mean": 0.2146,
+          "runaway": 0,
+          "dur_ratio_med": 1.03
+        },
+        "accent": {
+          "n": 100,
+          "lid_ratio": {
+            "n": 100,
+            "mean": -13.6251,
+            "sd": 4.107
+          },
+          "p_target": {
+            "n": 100,
+            "mean": 0.8758,
+            "sd": 0.2119
+          },
+          "frac_p_target_lt_0.9": 0.34,
+          "lid_top1": {
+            "en": 95,
+            "mi": 1,
+            "lt": 1,
+            "sco": 1,
+            "cy": 1,
+            "ru": 1
+          },
+          "sec_per_clip": 0.0082
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 160,
+          "cer_mean": 0.2504,
+          "cer_gt20": 0.175,
+          "sim_mean": 0.3161,
+          "runaway": 5,
+          "dur_ratio_med": 1.253
+        },
+        "accent": {
+          "n": 160,
+          "lid_ratio": {
+            "n": 160,
+            "mean": -9.8698,
+            "sd": 5.9764
+          },
+          "p_target": {
+            "n": 160,
+            "mean": 0.7821,
+            "sd": 0.3493
+          },
+          "frac_p_target_lt_0.9": 0.3375,
+          "lid_top1": {
+            "zh": 131,
+            "bo": 9,
+            "ko": 4,
+            "ja": 4,
+            "iw": 2,
+            "mg": 1,
+            "br": 1,
+            "my": 1,
+            "th": 1,
+            "pt": 1,
+            "ro": 1,
+            "be": 1,
+            "tl": 1,
+            "sl": 1,
+            "pl": 1
+          },
+          "n_m23": 160,
+          "ser_micro": 0.4209,
+          "ser": {
+            "n": 160,
+            "mean": 0.5073,
+            "sd": 0.8508
+          },
+          "ser_shared_micro": 0.2114,
+          "ser_shared": {
+            "n": 154,
+            "mean": 0.2371,
+            "sd": 0.2445
+          },
+          "ini_err_micro": 0.1397,
+          "fin_err_micro": 0.1674,
+          "ter_micro": 0.1038,
+          "ter_strict_micro": 0.1245,
+          "ter": {
+            "n": 159,
+            "mean": 0.1218,
+            "sd": 0.143
+          },
+          "ter_strict": {
+            "n": 159,
+            "mean": 0.1525,
+            "sd": 0.1562
+          },
+          "tone_confusion": [
+            [
+              351,
+              11,
+              5,
+              28,
+              0
+            ],
+            [
+              32,
+              488,
+              20,
+              23,
+              2
+            ],
+            [
+              11,
+              16,
+              328,
+              14,
+              6
+            ],
+            [
+              56,
+              19,
+              31,
+              731,
+              0
+            ],
+            [
+              6,
+              1,
+              4,
+              21,
+              253
+            ]
+          ],
+          "merge_risk_syl": 8,
+          "sec_per_clip": 0.0172
+        }
+      }
+    }
+  },
+  "R": {
+    "lang": {
+      "en": {
+        "asr_sim": {
+          "n": 60,
+          "cer_mean": 0.039,
+          "cer_gt20": 0.05,
+          "sim_mean": 0.1364,
+          "runaway": 0,
+          "dur_ratio_med": 0.875
+        },
+        "accent": {
+          "n": 60,
+          "lid_ratio": {
+            "n": 60,
+            "mean": -12.9205,
+            "sd": 5.6331
+          },
+          "p_target": {
+            "n": 60,
+            "mean": 0.7827,
+            "sd": 0.3445
+          },
+          "frac_p_target_lt_0.9": 0.3333,
+          "lid_top1": {
+            "en": 50,
+            "cy": 2,
+            "is": 1,
+            "hi": 1,
+            "mi": 1,
+            "sv": 1,
+            "lt": 1,
+            "bn": 1,
+            "mg": 1,
+            "la": 1
+          },
+          "sec_per_clip": 0.008
+        }
+      },
+      "zh": {
+        "asr_sim": {
+          "n": 88,
+          "cer_mean": 0.0376,
+          "cer_gt20": 0.08,
+          "sim_mean": 0.2456,
+          "runaway": 0,
+          "dur_ratio_med": 0.982
+        },
+        "accent": {
+          "n": 88,
+          "lid_ratio": {
+            "n": 88,
+            "mean": -13.4922,
+            "sd": 7.5587
+          },
+          "p_target": {
+            "n": 88,
+            "mean": 0.8393,
+            "sd": 0.333
+          },
+          "frac_p_target_lt_0.9": 0.2045,
+          "lid_top1": {
+            "zh": 75,
+            "ja": 3,
+            "bo": 2,
+            "th": 1,
+            "uz": 1,
+            "ko": 1,
+            "fi": 1,
+            "km": 1,
+            "tt": 1,
+            "jw": 1,
+            "ba": 1
+          },
+          "n_m23": 83,
+          "ser_micro": 0.2424,
+          "ser": {
+            "n": 83,
+            "mean": 0.3046,
+            "sd": 0.2761
+          },
+          "ser_shared_micro": 0.1968,
+          "ser_shared": {
+            "n": 78,
+            "mean": 0.2271,
+            "sd": 0.1745
+          },
+          "ini_err_micro": 0.0851,
+          "fin_err_micro": 0.1184,
+          "ter_micro": 0.0816,
+          "ter_strict_micro": 0.095,
+          "ter": {
+            "n": 80,
+            "mean": 0.118,
+            "sd": 0.1815
+          },
+          "ter_strict": {
+            "n": 80,
+            "mean": 0.1292,
+            "sd": 0.1805
+          },
+          "tone_confusion": [
+            [
+              142,
+              3,
+              0,
+              18,
+              1
+            ],
+            [
+              1,
+              241,
+              8,
+              21,
+              4
+            ],
+            [
+              0,
+              15,
+              170,
+              11,
+              0
+            ],
+            [
+              13,
+              6,
+              4,
+              398,
+              0
+            ],
+            [
+              0,
+              2,
+              0,
+              6,
+              125
+            ]
+          ],
+          "merge_risk_syl": 5,
+          "sec_per_clip": 0.0223
+        }
+      }
+    }
+  },
+  "X_amadeus": {
+    "lang": {
+      "ja": {
+        "asr_sim": {
+          "n": 72,
+          "cer_mean": 0.0222,
+          "cer_gt20": 0.014,
+          "sim_mean": 0.5613,
+          "runaway": 0,
+          "dur_ratio_med": 1.48
+        }
+      }
+    },
+    "tilt_med": -11.68
+  },
+  "X_amadeus_anime": {
+    "lang": {
+      "ja": {
+        "asr_sim": {
+          "n": 72,
+          "cer_mean": 0.0237,
+          "cer_gt20": 0.014,
+          "sim_mean": 0.6063,
+          "runaway": 0,
+          "dur_ratio_med": 1.431
+        }
+      }
+    },
+    "tilt_med": -17.49
+  },
+  "X_kurisu": {
+    "lang": {
+      "ja": {
+        "asr_sim": {
+          "n": 72,
+          "cer_mean": 0.0211,
+          "cer_gt20": 0.014,
+          "sim_mean": 0.6397,
+          "runaway": 0,
+          "dur_ratio_med": 1.538
+        }
+      }
+    },
+    "tilt_med": -22.87
+  },
+  "X_phone": {
+    "lang": {
+      "ja": {
+        "asr_sim": {
+          "n": 72,
+          "cer_mean": 0.0269,
+          "cer_gt20": 0.042,
+          "sim_mean": 0.5397,
+          "runaway": 0,
+          "dur_ratio_med": 1.412
+        }
+      }
+    },
+    "tilt_med": -4.8
+  }
+}

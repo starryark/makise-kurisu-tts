@@ -1,0 +1,12 @@
+# These match the current official Qwen3-TTS Space and the exported checkpoint.
+torch==2.8.0
+torchaudio==2.8.0
+qwen-tts==0.1.1
+transformers==4.57.3
+accelerate==1.12.0
+huggingface-hub==0.36.2
+gradio==5.33.0
+# `spaces` is not pinned: the ZeroGPU builder installs its own version (0.51.3 as
+# of 2026-10) and a different pin here makes pip's resolution impossible.
+numpy>=2.0,<2.5
+soundfile>=0.13,<0.15

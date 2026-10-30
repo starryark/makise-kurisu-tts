@@ -1,0 +1,756 @@
+{
+ "ja": {
+  "path": "data/train/001/game_ja_SGRE_kurisu_01686.wav",
+  "text": "2週間だけ、菖蒲院に逆留学みたいなことしてたんだけど、そこの制服を改造して着てるの"
+ },
+ "zh": {
+  "path": "data/train/002/anime_zh_sg0_08_0170.wav",
+  "text": "这边准备好了，等一会儿您只要把这个邮件发出去，你就可以回到原来的世界线了。"
+ },
+ "en": {
+  "path": "data/validation/000/anime_en_sg_24_0070.wav",
+  "text": "What is your trauma? Don't rush to help me or anything."
+ },
+ "native_pool": [
+  {
+   "path": "data/train/002/anime_zh_sg0_02_0046.wav",
+   "text": "人类想让记忆存储或是读取时，就会由前脑叶向侧颞叶发送一个信号",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_02_0200.wav",
+   "text": "学姐，学姐",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_02_0203.wav",
+   "text": "这确实有点太高了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0003.wav",
+   "text": "好久不见了，新年快乐！",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0005.wav",
+   "text": "这是新年的问候吧，还是我应该说 Happy New Year 会更好呢？不过也是难得，我真没想到能在这里看到你。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0007.wav",
+   "text": "我说，我说大过年的你要干嘛？啊我",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0011.wav",
+   "text": "我在研究所的时候会经常这么想：如果先听到脚步声，然后门被打开，会不会听到当时的那个声音？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0013.wav",
+   "text": "冈部你怎么了",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0017.wav",
+   "text": "嗯嗯嗯，抱歉，是因为我说了不该提的内容。仔细想想，能够让你来这里的理由，除了真由理，好像也没有什么了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0019.wav",
+   "text": "从那之后，你基本上就没再来过研究所。虽然桥田也是，不过跟你相比要好点。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0023.wav",
+   "text": "之前不是被你给扔掉了吗？你不记得了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0025.wav",
+   "text": "是吗？别太沮丧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0046.wav",
+   "text": "痛苦，但是感觉这样做的话，他也会很开心的吧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0048.wav",
+   "text": "照片，因为她做的衣服很可爱，所以我们一起拍了纪念照",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0050.wav",
+   "text": "健康状况也没有什么问题，就是和平常一样的",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0066.wav",
+   "text": "也是很难得呀，小天，你居然会主动给我打电话。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0068.wav",
+   "text": "是吗",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0075.wav",
+   "text": "会找到我。我当然知道了，毕竟只有你才会在这儿。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0077.wav",
+   "text": "骗你的。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0078.wav",
+   "text": "嗯，是GPS。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0083.wav",
+   "text": "另外，好像你也不知道GPS的事情吧？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0085.wav",
+   "text": "不告诉你。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0087.wav",
+   "text": "我把它修好了。要说的话是电话微波炉改，或者应该说是暂定电话微波炉改。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0091.wav",
+   "text": "不，你现在就用这个回到原来的世界线去吧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0093.wav",
+   "text": "你知道真由理还活着。其实你是从成功让真由理活下来的世界线过来的那个冈部吧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0095.wav",
+   "text": "我看得出来哦，不管你怎么样，我都哦不，不是那个意思。那个苏然没什么错。总而言之，你是从其他的世界线过来的冈部伦太郎吧？如果是那样的话，就快点回去吧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0099.wav",
+   "text": "桥田。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0101.wav",
+   "text": "他说出去一下，结果就是冈部他还是不可能完全忘掉真由理啊。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0103.wav",
+   "text": "得出结论了吗？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0105.wav",
+   "text": "你不穿白大褂，差点就找不到你。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0107.wav",
+   "text": "你一直跟我走，就知道。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0110.wav",
+   "text": "你能不能别这样盯着我？小心被警察带走。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0112.wav",
+   "text": "光是盯着女性看就成为性骚扰的案例，要多少有多少。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0116.wav",
+   "text": "为什么你会知道这个？我有跟你说过吗？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0118.wav",
+   "text": "啊，真帆学姐，你之前的那条世界线里到底发。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0120.wav",
+   "text": "你在生什么气啊？我才没生气。嗯。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0122.wav",
+   "text": "嗯",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0124.wav",
+   "text": "我不知道，但是根据常识来思考的话，无法判断人工智能和世界线的变动会有什么必然的关联。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0126.wav",
+   "text": "Amadeus 里面也保存着我以前的记忆，在那些记忆里，也有关于时间机器的理论。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0128.wav",
+   "text": "虽然我否定了这方面的理论。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0130.wav",
+   "text": "但是，也不能就这么完全断定这个东西不可能实现。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0134.wav",
+   "text": "不过话说回来，你和真帆学姐居然会认识啊！",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0136.wav",
+   "text": "学姐她是不是有时候很粗心，还会死心眼啊？还很笨拙。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0138.wav",
+   "text": "嗯，你这话真失礼啊！我可是个乖巧听话的学妹，还经常跑腿帮她去买饮料，比如香片茶。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0141.wav",
+   "text": "看来大家都来过了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0147.wav",
+   "text": "你给我冷静一点，冈部伦太郎。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0148.wav",
+   "text": "你这是什么表情啊？如果你是我认识的那个凤凰院胸针的话，你应该是一副更自信的神态。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0153.wav",
+   "text": "对",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0155.wav",
+   "text": "回去吧，回到研究所。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0156.wav",
+   "text": "从梦中醒来之前，你要答应我一件事。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0158.wav",
+   "text": "你回去以后就把关于我的事全都忘了吧。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0164.wav",
+   "text": "拉钩上吊一百年不许变，骗人的话就用电极插海马体，就这么定了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0170.wav",
+   "text": "这边准备好了，等一会儿您只要把这个邮件发出去，你就可以回到原来的世界线了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0175.wav",
+   "text": "冈部",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0177.wav",
+   "text": "我最高兴的事，就是遇到你。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_08_0180.wav",
+   "text": "冈部! 其实我对你也！",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0004.wav",
+   "text": "你快回去吧，去真由理活着的世界线。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0180.wav",
+   "text": "难题呀。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0182.wav",
+   "text": "但是如果把所有的观点都认为不可能的话，那就是科学家的失职了",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0201.wav",
+   "text": "如果你利用维克多孔多利亚大学的研究设施的话，应该是只要你想查的话，不管什么都能查得到的。那你又是为什么专门跑到这里？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0203.wav",
+   "text": "就算是这样，也找不到时间机器，不是吗？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_09_0205.wav",
+   "text": "时间机器的开发是不可能建立在已有时间机器的基础上的，这样会产生极其强烈的时间悖论，所以无法实现。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0002.wav",
+   "text": "K三百三十一是莫扎特的第十一钢琴奏鸣曲，A大调第一乐章。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0004.wav",
+   "text": "不能说喜欢到什么程度，但是我喜欢“死亡意味着再也听不到莫扎特的音乐了”这句话。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0008.wav",
+   "text": "因为如果死了的话，就听不到莫扎特的音乐了呀。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0010.wav",
+   "text": "是啊，所以是真命题。死掉的话就会听不到了，理论上没错吧？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0012.wav",
+   "text": "你说是不是很有逻辑？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0028.wav",
+   "text": "虽然这只是在我知道的范畴内，应该没问题。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0031.wav",
+   "text": "不过就算是他知道我修复了，也不知道他是否会跟我说话",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0033.wav",
+   "text": "肯定，他还是觉得和学姐说话更加开心吧，而且。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0107.wav",
+   "text": "那没什么变化。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0145.wav",
+   "text": "是个优秀的人，所以能代替",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_10_0155.wav",
+   "text": "那么，也做过矿石收音",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0043.wav",
+   "text": "学姐，你还这么说的话，不怕未来会后悔吗？比起因为没有去送而后悔。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0046.wav",
+   "text": "学姐。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0049.wav",
+   "text": "你真的没有准备吗？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0051.wav",
+   "text": "嗯。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0053.wav",
+   "text": "嗯，但是这一天，女孩子把平时藏在心里的秘密说出来，很浪漫吧？学姐，你觉得呢？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0055.wav",
+   "text": "有句话叫做「科学家才是真正的浪漫主义者」",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0060.wav",
+   "text": "我就觉得丢人，而且，嗯，其实我已经已经想好要送给谁了。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0062.wav",
+   "text": "还是那句话，比起因为没有去送而后悔，还是送了之后再后悔要好一点。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0270.wav",
+   "text": "你也可以选择邮寄，或者在情人",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0279.wav",
+   "text": "最近在日本，好像也会给最重要的好朋友送巧克力哟。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_zh_sg0_ova_0281.wav",
+   "text": "没关系，明年也行啊",
+   "lang": "zh"
+  },
+  {
+   "path": "data/validation/000/anime_zh_sg0_20_0012.wav",
+   "text": "并不只是我在这里。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/validation/000/anime_zh_sg0_20_0136.wav",
+   "text": "啊。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/validation/000/anime_zh_sg0_21_0040.wav",
+   "text": "我好恨他，好恨五小时后的我。",
+   "lang": "zh"
+  },
+  {
+   "path": "data/test/000/anime_zh_sg0_07_0213.wav",
+   "text": "嗯？",
+   "lang": "zh"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_05_0067.wav",
+   "text": "That's it! I'm calling the.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg0_09_0198.wav",
+   "text": "Hold on! Excuse me, that's called stealing, you know.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0125.wav",
+   "text": "You figure something out.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_12_0055.wav",
+   "text": "Do we know what kind of pizza Hashida ordered?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_ova_0061.wav",
+   "text": "Why does this seem so familiar?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0004.wav",
+   "text": "I asked Hashida for the street address. Though I gotta admit, I was expecting less of a frat pad and more of an actual lab.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_ova_0080.wav",
+   "text": "How tiny of a role does reality play in your life?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_14_0013.wav",
+   "text": "What's the deal? Explain it to me.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_22_0107.wav",
+   "text": "uh...How do I feel?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_18_0031.wav",
+   "text": "Good luck upholding those principles without reducing her to tears.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_ova_0201.wav",
+   "text": "Wait, what are you saying?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_04_0271.wav",
+   "text": "Oh please! Do you even listen to yourself talk? You're a loon.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_04_0260.wav",
+   "text": "Wow! It really is the right model. That's crazy.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg0_02_0048.wav",
+   "text": "You see, when people try to access their memories.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_04_0275.wav",
+   "text": "Your dad's a sweet guy.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_05_0105.wav",
+   "text": "A festival.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_11_0174.wav",
+   "text": "Yeah, yeah, and no whussing out. You're in this with me, even if I have to drag you kicking and screaming.",
+   "lang": "en"
+  },
+  {
+   "path": "data/validation/000/anime_en_sg_24_0070.wav",
+   "text": "What is your trauma? Don't rush to help me or anything.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_10_0095.wav",
+   "text": "While you.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0073.wav",
+   "text": "A banana moved a couple feet. I'm just saying. I think teleporter is premature.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_10_0038.wav",
+   "text": "Huh? How so?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_05_0153.wav",
+   "text": "Good. Thank you for making my decision so much easier. Last turn and go.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_05_0279.wav",
+   "text": "I know it's crazy, but just look at it this way. Now that we're sure it's true, we have to figure out what our next move is going to be.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_08_0036.wav",
+   "text": "I feel like we need to find a more objective way of analyzing whether or not we've gone through that kind of a shift.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0386.wav",
+   "text": "You hacked CERN? Why on earth would you? What for?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0065.wav",
+   "text": "How would you like it, Hououin Carcinoma?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_14_0164.wav",
+   "text": "You're right. It's absurd. I just don't know a better way to frame what I'm trying to get at. The point is, we're not thinking back far enough to expose the real catalyst.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg0_08_0092.wav",
+   "text": "In that place, Mayuri still lives, or rather, in that world line, you were able to find the resolve it took to keep her alive.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0021.wav",
+   "text": "What's the matter? Are you one of those Japanese guys who shakes hands like a dead fish?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_21_0117.wav",
+   "text": "Damn it! I'm trying to help.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg0_ova_0052.wav",
+   "text": "Do you really not like anyone?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_06_0185.wav",
+   "text": "Space can no longer be moved through, and time, as you understand it, ceases to exist. One second to you, for me, stretches out past the horizon line of what is.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0664.wav",
+   "text": "Excuse me.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0750.wav",
+   "text": "What am I doing? I mean, look at me. I barely even know the guy. I have bits and pieces, but that's it-a handful of moments from this worldline, and the fragments coming at me from different versions.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg0_08_0134.wav",
+   "text": "I admit I struggled to wrap my head around your alleged friendship with Miss Maho.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_14_0150.wav",
+   "text": "So you're telling me a time machine I constructed works as designed.",
+   "lang": "en"
+  },
+  {
+   "path": "data/test/000/anime_en_sg_17_0182.wav",
+   "text": "Hey hey! Hands off the girl, Casanova! You don't get to manhandle every female who wanders into your lab.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_05_0113.wav",
+   "text": "How did the parts hut go?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0662.wav",
+   "text": "What if I screw up? How do I minimize the butterfly effect? Everything I do will carry unintended consequences. Everything.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_09_0088.wav",
+   "text": "I have nothing noteworthy to add.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_06_0165.wav",
+   "text": "I've calculated that one second on the timer equals an hour in reality. Moving upstream to the flow of linear time, that means a minute thirty translates to five days.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_09_0068.wav",
+   "text": "It's a moot point.",
+   "lang": "en"
+  },
+  {
+   "path": "data/test/000/anime_en_sg_17_0021.wav",
+   "text": "Just be careful.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_07_0238.wav",
+   "text": "What's up anyway? Who are you texting?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0673.wav",
+   "text": "Oh my god, oh my god, the poor bastard. This is exactly what he went through. I can't.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0707.wav",
+   "text": "Hashida.",
+   "lang": "en"
+  },
+  {
+   "path": "data/test/000/anime_en_sg_17_0019.wav",
+   "text": "I feel like I shouldn't let you do this. You're a gauge twitch from meltdown as it.",
+   "lang": "en"
+  },
+  {
+   "path": "data/validation/000/anime_en_sg_16_0077.wav",
+   "text": "That isn't the sort of thing you joke about, Mayuri. As if any self-respecting woman would ever.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_03_0075.wav",
+   "text": "A pleasure to meet you. I'm Makise Kurisu. I hope my being here didn't startle you.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_21_0123.wav",
+   "text": "Don't just let it go off.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_15_0158.wav",
+   "text": "What's with the kung fu?",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_06_0213.wav",
+   "text": "Morning, everyone. I think I had an aha moment about the time machine.",
+   "lang": "en"
+  },
+  {
+   "path": "data/test/000/anime_en_sg_17_0022.wav",
+   "text": "uh...Don't read into that. Your brain simply represents a specimen totally invaluable to our, to mankind's understanding of time travels, neurologic",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0361.wav",
+   "text": "No, it's not.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_ova_0112.wav",
+   "text": "That's what I'm talking about. I can think of a hundred reasons why this alternate worldline craziness could never be true, but then I dream things, things that feel more like, I don't know, memories. Moments like you're crying on an overpass in Akihabara and I'm there, or we're debating equations written out on a whiteboard, neither of us backing down.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_21_0012.wav",
+   "text": "I'm pretty sure it wouldn't be my thing.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_23_0067.wav",
+   "text": "At least finish a sentence.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_10_0040.wav",
+   "text": "What the hell is wrong with you? Calling her a boy is a pretty shitty thing to do.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_movie_0762.wav",
+   "text": "Blah blah. No one ever believed him, but he did actually stumble onto one of the greatest discoveries of mankind, something no one else could see but him, and it wound up being a terrible burden. Once the genie was out of the bottle, all it ever seemed to bring was pain and suffering.",
+   "lang": "en"
+  },
+  {
+   "path": "data/train/002/anime_en_sg_14_0119.wav",
+   "text": "It is kind of cute.",
+   "lang": "en"
+  }
+ ]
+}

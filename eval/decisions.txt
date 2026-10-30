@@ -1,0 +1,25 @@
+A10: M1(B)=-19.94 <= (M1(F)+M1(D))/2=-17.81 -> pseudo route runs
+A3' runs/E1a/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": -0.03, "phone": -0.003}, "max_band": {"db": 1.945, "band": 16}, "pass": true}
+A3' runs/E1b/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": 0.039, "phone": 0.0279}, "max_band": {"db": 1.611, "band": 5}, "pass": true}
+A3' runs/E3/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": -0.0508, "phone": -0.0364}, "max_band": {"db": 2.211, "band": 18}, "pass": true}
+A3' runs/E3f/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": -0.022, "phone": -0.0016}, "max_band": {"db": 1.909, "band": 18}, "pass": true}
+A3' runs/E5/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": 0.0015, "phone": -0.0088}, "max_band": {"db": 1.291, "band": 5}, "pass": true}
+A3' runs/E5b/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": 0.0465, "phone": 0.0747}, "max_band": {"db": 3.249, "band": 0}, "pass": true}
+A3' runs/E6/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": 0.0346, "phone": 0.0343}, "max_band": {"db": 2.53, "band": 6}, "pass": true}
+A3' runs/E7/: PASS {"n_texts": 148, "seed_bases": [6000, 11000], "projections": {"amadeus": -0.0514, "phone": -0.01}, "max_band": {"db": 2.117, "band": 16}, "pass": true}
+[2026-10-29] Amendment C validity: A3' negative controls E1a/E1b/E3/E3f all |proj| <= 0.051 -> A3' usable.
+[2026-10-29] E5b under B1 + A3': A3' pass (amadeus 0.047, phone 0.075; max |band| 3.25 dB at band 0 = 160 Hz, the low band where retrains wobble);
+             A5 amadeus 0.992 >= 0.5; row CER amadeus 0.042, phone 0.039 <= 0.07; phone A5 1.16 (in-sample, report-only) -> ADOPT.
+[2026-10-29] E6: A3' pass (0.035/0.034) but A2 SIM screen fails (lb90 -0.035) -> REJECT stands. E7: SFX detection 0-7% -> REJECT stands.
+[2026-10-29] Original A3 (reported only): E1a 0.87/1.95, E1b 0.71/1.61, E3 1.07/2.21, E3f 0.88/1.91, E5 0.66/1.29, E5b 1.27/3.25, E6 1.15/2.53, E7 1.04/2.12.
+[2026-10-29] E6b (B2): A2 screen passes (dCER ub90 0.0031, dSIM lb90 -0.010, runaway 0); A6 dCER [sigh] 0.048 / [nv] 0.040 <= 0.05, runaways 0 vs 0;
+             CED detection at 5% FPR: [sigh] 0.367 vs twins 0.067, [nv] 0.233 vs 0.000; A3' pass (-0.030/-0.014) -> ADOPT (tags experimental).
+[2026-10-29] Amendment D: E3 -15.207 / E3b -14.666 / E4 -19.278 / E4b -20.241 (paired zh M1, 192 clips); matched spread 0.962; mean gain 4.823 > spread;
+             SER shared 0.0547 vs 0.1607 (not worse); zh SIM drop 0.0082 <= 0.03; A2 screen and A3' pass on E4 and E4b -> E4 ADOPT.
+[2026-10-29] Adopted set: E3 (lang ids + replay), E4 (pseudo-zh), E5b (amadeus + phone rows), E6b (tags, no upsampling). Rejected: E3f, E5, E6, E7.
+[2026-10-29] Final selection (A8 with A3' per Amendment C). Eligible (A2, A3', A4, A5 pass):
+             s0821/257 CER 0.0276 SIM 0.6696; s0821/343 0.0295 0.6608 (orig A3 fail, A3' pass); s0821/429 0.0303 0.6643; s1028/343 0.0303 0.6710 (orig A3 fail, A3' pass).
+             Ineligible: s1028/257 (1 runaway), s1028/429 (A2 dSIM lb90 -0.0164).
+             Step 2: all eligible within 0.01 of best CER -> tie; step 3: highest SIM -> PICK = final_s20261028/checkpoint-step-343.
+             (p07's printed ranking applied the original A3 and therefore omitted s0821/343 and s1028/343.)
+[2026-10-29] Re-test of the pick at seed base 26000 (A2): dCER -0.0036 (ub90 +0.0020), dSIM lb90 -0.0000, runaway 0 -> PASS. A5 amadeus 1.115. Original A3 printed FAIL (retired by Amendment C).

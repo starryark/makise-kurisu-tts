@@ -1,0 +1,110 @@
+# laion/vocalburst-classifier-single fine class -> canonical family.
+# Generated from pipeline/common.py - edit there, not here.
+version: 1
+family_map:
+  breath:
+    - 'Deep Breath'
+    - 'Deep Breathing'
+    - 'Fast Breathing'
+    - 'Heavy Breathing'
+    - 'Normal Breathing'
+    - 'Panting'
+    - 'Slow Breathing'
+  chuckle:
+    - 'Chuckle'
+  cough:
+    - 'Cough'
+    - 'Coughing'
+  cry:
+    - 'Mournful Wail'
+    - 'Trembling Whimper'
+  gasp:
+    - 'Fearful Gasp'
+    - 'Sharp Inhale'
+    - 'Surprised Gasp'
+  giggle:
+    - 'Breathy Giggle'
+    - 'Childlike Giggle'
+    - 'Nervous Giggle'
+    - 'Snicker'
+    - 'Snorting Giggle'
+  groan:
+    - 'Exhausted Groan'
+    - 'Frustrated Groan'
+  growl:
+    - 'Growl'
+  grunt:
+    - 'Affirmative Grunt'
+    - 'Displeased Grunt'
+    - 'Effort Grunt'
+  hum:
+    - 'Humming'
+    - 'Purr'
+    - 'Resonant Hum'
+    - 'Soft Hum'
+  laugh:
+    - 'Cackle'
+    - 'Guffaw'
+  lipsmack:
+    - 'Blowing a Kiss'
+    - 'Kissing Noises'
+    - 'Kissing Sounds'
+    - 'Licking Sound'
+    - 'Lip Smack'
+    - "Smack One's Lips"
+    - 'Smacks Lips'
+    - 'Sucking Noise'
+  moan:
+    - 'Pain Moan'
+    - 'Pleasure Moan'
+  mumble:
+    - 'Low Mumble'
+    - 'Whispered Mumble'
+  no_burst:
+    - 'No burst'
+    - 'no_burst'
+  other:
+    - 'Chewing Noises'
+    - 'Drinking Noises'
+    - 'Finger Snaps'
+    - 'Gurgling'
+    - 'Hiccup'
+    - 'Hiccups'
+    - 'Hiss'
+    - 'Slurping Noises'
+    - 'Spitting'
+  scream:
+    - 'Scream'
+    - 'Shriek'
+  sigh:
+    - 'Contented Sigh'
+    - 'Exasperated Sigh'
+    - 'Relief Sigh'
+    - 'Wistful Sigh'
+  sniff:
+    - 'Sniff'
+    - 'Snort'
+  sob:
+    - 'Convulsive Sob'
+    - 'Quiet Sob'
+    - 'Sobs'
+  swallow:
+    - 'Gulps'
+    - 'Nervous Gulp'
+    - 'Swallows'
+  throat_clear:
+    - 'Ahem'
+    - 'Clears Throat'
+  tsk:
+    - "Click One's Tongue"
+    - 'Clicks Tongue'
+    - 'Tongue Click'
+    - 'Tsk'
+  whistle:
+    - 'Person Whistling Playfully'
+    - 'Person Whistling to Get Attention'
+    - 'Sharp Whistle'
+    - 'Soft Whistle'
+    - 'Wolf Whistle'
+  yawn:
+    - 'Yawn'
